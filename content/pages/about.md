@@ -56,7 +56,7 @@ the promotion of Python.
      <i class="fa fa-calendar-o fa-4x" style="color:#5484ED"></i>
      </p>
      <p><strong>Events</strong><br/>
-     <a href="#" target="_blank">Upcoming</a> |
+     <a href="https://www.meetup.com/PythonNepal/#upcoming" target="_blank">Upcoming</a> |
      <a href="http://pythonnepal.github.io/pages/meetups.html" target="_blank">Past Events</a>
      </p>
      </div>
