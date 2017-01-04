@@ -47,6 +47,22 @@ If you're interested in writing a blog post for the website, you need to:
 - Push the changes to a topic branch, like `an-example-article`, on *your* fork of the repository
 - Make a [pull request](https://help.github.com/articles/using-pull-requests/) against the `master` branch.
 
+## Deployment
+We use [Fabric](http://www.fabfile.org/) for automating the tasks and deployment. Type `fab --list` to see the available commands.
+
+```
+Available commands:
+
+    build       Build local version of site
+    clean       Remove generated files
+    preview     Build production version of site
+    publish     Push the generated html to master branch on GitHub.     
+    rebuild     `clean` then `build`
+    regenerate  Automatically regenerate site upon file modification
+    reserve     `build`, then `serve`
+    serve
+```
+
 
 ## Contributing
 
