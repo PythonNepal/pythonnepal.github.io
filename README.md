@@ -38,6 +38,16 @@ This will clone the repository on to your system and clone the submodules inside
 
   Open up your web browser and point it to [http://localhost:8000](http://localhost:8000) to see the site running locally. Yay!
 
+## Blog Workflow
+
+If you're interested in writing a blog post for the website, you need to:
+
+- [Fork](https://github.com/PythonNepal/pythonnepal.github.io/fork) the repository
+- Write a blog post using Markdown in the `content` directory
+- Push the changes to a topic branch, like `an-example-article`, on *your* fork of the repository
+- Make a [pull request](https://help.github.com/articles/using-pull-requests/) against the `master` branch.
+
+
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md)
