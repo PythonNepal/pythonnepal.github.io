@@ -39,7 +39,12 @@ DEFAULT_PAGINATION = False
 THEME = "theme"
 # COVER_IMG_URL = ""
 
-STATIC_PATHS = ["static"]
+STATIC_PATHS = ["static", "extra"]
+
+# Extra metadata dictionaries keyed by relative path
+EXTRA_PATH_METADATA = {
+    'extra/CNAME': {'path': 'CNAME'}
+}
 
 MENUITEMS = [
     ("Meetups", "pages/meetups.html")
