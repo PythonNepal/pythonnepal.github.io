@@ -23,13 +23,12 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
 # Blogroll
-LINKS = (('ILUGC', 'http://ilugc.in/'),
-         ('Python', 'http://python.org/'),
-         ('PSSI', 'http://python.org.in/'),)
+LINKS = (('Python', 'http://python.org/'),)
 
 # Social widget
 SOCIAL = (('group', 'https://www.meetup.com/PythonNepal/'),
           ('facebook', 'https://www.facebook.com/groups/pythonnepal/'),
+          ('youtube', 'https://www.youtube.com/channel/UC7EWmhPyAIHDsXY93C34eXA'),
           ('rss', 'feeds/all.atom.xml'),)
 
 DEFAULT_PAGINATION = False
