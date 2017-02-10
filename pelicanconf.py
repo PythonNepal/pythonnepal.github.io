@@ -47,7 +47,8 @@ EXTRA_PATH_METADATA = {
 }
 
 MENUITEMS = [
-    ("Meetups", "pages/meetups.html")
+    ("Meetups", "pages/meetups.html"),
+    ("Videos", "pages/videos.html")
 ]
 
 #
