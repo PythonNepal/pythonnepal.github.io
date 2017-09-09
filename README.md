@@ -67,3 +67,8 @@ Available commands:
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md)
+
+If you're a python developer from Nepal, you can add yourself to the [website](http://pythonnepal.org/pages/developers.html). To do that, 
+- Fork the repo
+- Edit the file present at `content/pages/developers.md`. The format is [Markdown](https://guides.github.com/features/mastering-markdown/).
+- Send us a pull request
