@@ -1,4 +1,4 @@
-# Python Users Group Nepal Website
+# Python Users Group Nepal Website [![Build Status](https://travis-ci.org/PythonNepal/pythonnepal.github.io.svg?branch=source)](https://travis-ci.org/PythonNepal/pythonnepal.github.io)
 
 This is the repo for the Python User Group Nepal's website. The site is built using [Pelican](http://github.com/getpelican/pelican), a static site generator, powered by Python. The
 site's theme is based on [Pure Pelican Theme](https://github.com/PurePelicanTheme/pure-single).
