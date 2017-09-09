@@ -37,7 +37,7 @@ DEFAULT_PAGINATION = False
 # RELATIVE_URLS = True
 
 THEME = "theme"
-# COVER_IMG_URL = ""
+COVER_IMG_URL = "https://upload.wikimedia.org/wikipedia/commons/4/40/Nepal_Patan_Mangal.jpg"
 
 STATIC_PATHS = ["static", "extra"]
 
@@ -47,6 +47,7 @@ EXTRA_PATH_METADATA = {
 }
 
 MENUITEMS = [
+    ("Companies", "pages/pythoninnepal.html"),
     ("Meetups", "pages/meetups.html"),
     ("Videos", "pages/videos.html")
 ]
