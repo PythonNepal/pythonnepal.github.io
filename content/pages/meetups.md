@@ -80,3 +80,49 @@ Tags: Events
 	1. **Asynchronous Task Queues with Celery** - Kishor Mahato: [Slides](http://www.slideshare.net/KishrorKumar/asynchronous-task-queues-with-celery)  
 	2. **List comprehension and its lazy Applications** - Rohitman Amatya: [Slides](http://rhoit.com/talks/pydev%237/)
 	3. **Test Driven Development with Python** - Suren Shrestha: [Materials](https://github.com/ludbek/tdd-presentation)
+
+
+### Python Meetup #8
+- **Date:** 13th December 2015  
+- **Venue:** Leapfrog Academy  
+- **Event Page:** [Link](https://www.facebook.com/events/1654753074801001)  
+- **Talks:**
+
+	1. **Web Scraping Techniques** - Krishna Sunuwar: [Slides](http://www.slideshare.net/KishrorKumar/asynchronous-task-queues-with-celery)  
+	2. **Scalable data processing at Grepsr** - Subrat Basnet: [Video](https://www.youtube.com/watch?v=2qc9gkjtzS8)
+
+### Python Meetup #9
+- **Date:** 6th March, 2016
+- **Venue:** Logpoint Pvt. Ltd.
+- **Talks:**
+
+	1. **The overall Architecture of Logpoint and the role of Python** - Mona Nyachhyon  
+	2. **Asynchronous Task scheduling with Python-rq** - Ashish Acharya: [Video](https://www.youtube.com/watch?v=-WGMgFcnolw&index=1&list=PLwv1ojmkbWay-GenASN5VBNe-Bgvvv1cb) | [Slides](https://www.slideshare.net/AshishAcharya12/asynchronous-job-queues-with-pythonrq)
+
+### Python Meetup #10
+- **Date:** 1st September 2016  
+- **Venue:** Leapfrog Academy  
+- **Talks:**
+
+	1. **Lets Talk about Raspberry Pi.** - Keya Lea Horiuchi
+	2. **Implementation of Raspberry Pi for approach of learning by doing** - Pravin Raj Joshi
+
+### Python Meetup #11
+- **Date:** 18 February 2016  
+- **Venue:** Logpoint Pvt. Ltd.  
+- **Event Page:** [Link](https://www.facebook.com/events/1708821879409885)  
+- **Talks:**
+
+	1. **Data Science with Pandas** - Santosh Purbey: [Slides](https://github.com/santoshpurbey/Python-Nepal-Meetup-11) | [Video](https://www.facebook.com/kaflesudip/videos/10212047714134043/)
+	2. **Network Programming - Python and Gevent** - Manish Shrestha  
+	3. **Using AWS Technologies with Python** - Santosh Ghimire: [Slides](https://docs.google.com/presentation/d/174pZKef0jQZxnoNJz6nTBMxkRmD64aP5Iz7-X_RnpWk)
+
+### Python Meetup #12
+- **Date:** 19th August 2017  
+- **Venue:** FuseMachines Nepal  
+- **Talks:**
+
+	1. **Teaching and Learning with Microbit** - Swornim Shrestha: [Slides](https://www.facebook.com/groups/pythonnepal/939851522824110/)  
+	2. **Testing REST APIs** - Sijan Bhandari: [Slides](https://www.slideshare.net/SijanOnly/api-testing-78982132)
+	3. **Writing clean code** - Nishan Panta: [Slides](http://www.nishanpantha.com.np/writing-clean-code)
+	4. **Panel discussion on Securing Modern applications**
