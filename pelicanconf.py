@@ -48,6 +48,7 @@ EXTRA_PATH_METADATA = {
 
 MENUITEMS = [
     ("Companies", "pages/pythoninnepal.html"),
+    ("Developers", "pages/developers.html"),
     ("Resources", "pages/resources.html"),
     ("Meetups", "pages/meetups.html"),
     ("Videos", "pages/videos.html")
