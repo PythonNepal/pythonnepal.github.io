@@ -65,9 +65,12 @@ def preview():
 
 
 def publish(commit_message):
-    env.msg = commit_message
     """Publish to GitHub Pages"""
+    env.msg = commit_message
+    env.GH_TOKEN = os.getenv('GH_TOKEN')
+    env.TRAVIS_REPO_SLUG = os.getenv('TRAVIS_REPO_SLUG')
     clean()
-    preview()
-    local("ghp-import -m '{msg}' -b {gp_branch} {deploy_path}".format(**env))
-    local("git push origin {gp_branch}".format(**env))
+    local('pelican -s publishconf.py')
+    with hide('running', 'stdout', 'stderr'):
+        local("ghp-import -m '{msg}' -b {gp_branch} {deploy_path}".format(**env))
+        local("git push -fq https://{GH_TOKEN}@github.com/{TRAVIS_REPO_SLUG}.git {gp_branch}".format(**env))
