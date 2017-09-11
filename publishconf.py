@@ -10,7 +10,15 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'https://pythonnepal.github.io'
+MENUITEMS = [
+    ("Companies", "http://pythonnepal.org/pages/pythoninnepal.html"),
+    ("Developers", "http://pythonnepal.org/pages/developers.html"),
+    ("Resources", "http://pythonnepal.org/pages/resources.html"),
+    ("Meetups", "http://pythonnepal.org/pages/meetups.html"),
+    ("Videos", "http://pythonnepal.org/pages/videos.html")
+]
+
+SITEURL = 'http://pythonnepal.org'
 RELATIVE_URLS = False
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'

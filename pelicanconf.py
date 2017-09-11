@@ -47,11 +47,11 @@ EXTRA_PATH_METADATA = {
 }
 
 MENUITEMS = [
-    ("Companies", "pages/pythoninnepal.html"),
-    ("Developers", "pages/developers.html"),
-    ("Resources", "pages/resources.html"),
-    ("Meetups", "pages/meetups.html"),
-    ("Videos", "pages/videos.html")
+    ("Companies", "http://0.0.0.0:8000/pages/pythoninnepal.html"),
+    ("Developers", "http://0.0.0.0:8000/pages/developers.html"),
+    ("Resources", "http://0.0.0.0:8000/pages/resources.html"),
+    ("Meetups", "http://0.0.0.0:8000/pages/meetups.html"),
+    ("Videos", "http://0.0.0.0:8000/pages/videos.html")
 ]
 
 #
