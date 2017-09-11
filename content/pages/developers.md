@@ -9,7 +9,7 @@ Maintain the list in alphabetical order
 [Email](mailto:meamitkc@gmail.com) | [Github](https://github.com/amitness) | [Website](https://amitness.com) | [Linkedin](https://www.linkedin.com/in/amitness/)
 
 - **Ashish Acharya**  
-[Email](mailto:ashish.acharya14@gmail.com) | [Github](https://github.com/code-geek) | [Website](https://ashishacharya.com) | [Linkedin](https://www.linkedin.com/in/ashishdotpy/)
+[Email](mailto:ashish.acharya14@gmail.com) | [Github](https://github.com/code-geek) | [Website](http://ashishacharya.com) | [Linkedin](https://www.linkedin.com/in/ashishdotpy/)
 
 - **Kiran Shahi**  
 [Email](mailto:kiran.shahi.np@gmail.com) | [Github](https://github.com/kiranshahi) | [Website](http://kirans.me) | [Linkedin](https://www.linkedin.com/in/itskirans/)
