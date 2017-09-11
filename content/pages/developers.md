@@ -11,6 +11,9 @@ Maintain the list in alphabetical order
 - **Ashish Acharya**  
 [Email](mailto:ashish.acharya14@gmail.com) | [Github](https://github.com/code-geek) | [Website](http://ashishacharya.com) | [Linkedin](https://www.linkedin.com/in/ashishdotpy/)
 
+- **Damodar Lohani**  
+[Email](mailto:dlohani48@gmail.com) | [Github](https://github.com/lohanidamodar) | [Website](https://dlohani.com.np) | [Linkedin](https://www.linkedin.com/in/lohanidamodar)
+
 - **Kiran Shahi**  
 [Email](mailto:kiran.shahi.np@gmail.com) | [Github](https://github.com/kiranshahi) | [Website](http://kirans.me) | [Linkedin](https://www.linkedin.com/in/itskirans/)
 
