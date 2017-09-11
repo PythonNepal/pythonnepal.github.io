@@ -8,5 +8,8 @@ Maintain the list in alphabetical order
 - **Amit Chaudhary**  
 [Email](mailto:meamitkc@gmail.com) | [Github](https://github.com/amitness) | [Website](https://amitness.com) | [Linkedin](https://www.linkedin.com/in/amitness/)
 
+- **Kiran Shahi**  
+[Email](mailto:kiran.shahi.np@gmail.com) | [Github](https://github.com/kiranshahi) | [Website](https://kirans.me) | [Linkedin](https://www.linkedin.com/in/itskirans/)
+
 - **Sudip Kafle**  
 [Email](mailto:soodip.kafle@gmail.com) | [Github](https://github.com/kaflesudip) | [Linkedin](https://www.linkedin.com/in/kaflesudip/)
