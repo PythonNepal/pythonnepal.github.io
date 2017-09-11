@@ -8,6 +8,9 @@ Maintain the list in alphabetical order
 - **Amit Chaudhary**  
 [Email](mailto:meamitkc@gmail.com) | [Github](https://github.com/amitness) | [Website](https://amitness.com) | [Linkedin](https://www.linkedin.com/in/amitness/)
 
+- **Ashish Acharya**  
+[Email](mailto:ashish.acharya14@gmail.com) | [Github](https://github.com/code-geek) | [Website](https://ashishacharya.com) | [Linkedin](https://www.linkedin.com/in/ashishdotpy/)
+
 - **Sandip Bhagat**  
 [Email](mailto:sandipbgt@gmail.com) | [Github](https://github.com/sandipbgt) | [Linkedin](https://www.linkedin.com/in/sandipbgt/)
 
