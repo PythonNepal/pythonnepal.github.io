@@ -17,7 +17,7 @@ Maintain the list in alphabetical order
 - **Kiran Shahi**  
 [Email](mailto:kiran.shahi.np@gmail.com) | [Github](https://github.com/kiranshahi) | [Website](http://kirans.me) | [Linkedin](https://www.linkedin.com/in/itskirans/)
 
-- **Manjil Shrestha**
+- **Manjil Shrestha**  
  [Email](mailto:shresthamanjil21@gmail.com) | [Github](https://github.com/smanjil) | [Linkedin](https://www.linkedin.com/in/manjil-shrestha-038527b4/)
  
 - **Narayan Kandel**  
@@ -26,7 +26,7 @@ Maintain the list in alphabetical order
 - **Sandip Bhagat**  
 [Email](mailto:sandipbgt@gmail.com) | [Github](https://github.com/sandipbgt) | [Website](http://sandipbgt.com) | [Linkedin](https://www.linkedin.com/in/sandipbgt/)
 
-- **Santosh Purbey**
+- **Santosh Purbey**  
 [Email](mailto:purbey.santosh@hotmail.com) | [Github](https://github.com/santoshpurbey) | [Linkedin](https://www.linkedin.com/in/santosh3511/)
 
 - **Sudip Kafle**  
