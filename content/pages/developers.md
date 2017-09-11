@@ -23,5 +23,8 @@ Maintain the list in alphabetical order
 - **Sandip Bhagat**  
 [Email](mailto:sandipbgt@gmail.com) | [Github](https://github.com/sandipbgt) | [Website](http://sandipbgt.com) | [Linkedin](https://www.linkedin.com/in/sandipbgt/)
 
+- **Santosh Purbey**
+[Email](mailto:purbey.santosh@hotmail.com) | [Github](https://github.com/santoshpurbey) | [Linkedin](https://www.linkedin.com/in/santosh3511/)
+
 - **Sudip Kafle**  
 [Email](mailto:soodip.kafle@gmail.com) | [Github](https://github.com/kaflesudip) | [Linkedin](https://www.linkedin.com/in/kaflesudip/)
