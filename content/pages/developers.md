@@ -11,5 +11,8 @@ Maintain the list in alphabetical order
 - **Ashish Acharya**  
 [Email](mailto:ashish.acharya14@gmail.com) | [Github](https://github.com/code-geek) | [Website](https://ashishacharya.com) | [Linkedin](https://www.linkedin.com/in/ashishdotpy/)
 
+- **Sandip Bhagat**  
+[Email](mailto:sandipbgt@gmail.com) | [Github](https://github.com/sandipbgt) | [Linkedin](https://www.linkedin.com/in/sandipbgt/)
+
 - **Sudip Kafle**  
 [Email](mailto:soodip.kafle@gmail.com) | [Github](https://github.com/kaflesudip) | [Linkedin](https://www.linkedin.com/in/kaflesudip/)
