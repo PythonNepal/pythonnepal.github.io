@@ -15,7 +15,7 @@ Maintain the list in alphabetical order
 [Email](mailto:kiran.shahi.np@gmail.com) | [Github](https://github.com/kiranshahi) | [Website](http://kirans.me) | [Linkedin](https://www.linkedin.com/in/itskirans/)
 
 - **Sandip Bhagat**  
-[Email](mailto:sandipbgt@gmail.com) | [Github](https://github.com/sandipbgt) | [Linkedin](https://www.linkedin.com/in/sandipbgt/)
+[Email](mailto:sandipbgt@gmail.com) | [Github](https://github.com/sandipbgt) | [Website](https://sandipbgt.com) | [Linkedin](https://www.linkedin.com/in/sandipbgt/)
 
 - **Sudip Kafle**  
 [Email](mailto:soodip.kafle@gmail.com) | [Github](https://github.com/kaflesudip) | [Linkedin](https://www.linkedin.com/in/kaflesudip/)
