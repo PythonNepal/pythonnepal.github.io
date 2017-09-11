@@ -25,3 +25,6 @@ Maintain the list in alphabetical order
 
 - **Sudip Kafle**  
 [Email](mailto:soodip.kafle@gmail.com) | [Github](https://github.com/kaflesudip) | [Linkedin](https://www.linkedin.com/in/kaflesudip/)
+
+- **Shital Babu Luitel**  
+[Email](mailto:ctalluitel@gmail.com) | [Github](https://github.com/shitalluitel) | [Linkedin](https://www.linkedin.com/in/shital-luitel-38363713a/)
