@@ -27,8 +27,12 @@ Maintain the list in alphabetical order
 - **Kiran Shahi**  
 [Email](mailto:kiran.shahi.np@gmail.com) | [Github](https://github.com/kiranshahi) | [Website](http://kirans.me) | [Linkedin](https://www.linkedin.com/in/itskirans/)
 
+- **Krishna Sunuwar**  
+[Github](https://github.com/s2krish) | [Linkedin](https://www.linkedin.com/in/s2krish/)
+
 - **Kishor Kumar Mahato**  
 [Email](mailto:cyberkishor@gmail.com) | [Github](https://github.com/cyberkishor) | [Linkedin](https://www.linkedin.com/in/kishrorkumar/) | [BitBucket](https://bitbucket.org/cyberkishor/)
+
 
 - **Manjil Shrestha**  
  [Email](mailto:shresthamanjil21@gmail.com) | [Github](https://github.com/smanjil) | [Linkedin](https://www.linkedin.com/in/manjil-shrestha-038527b4/)
@@ -38,7 +42,6 @@ Maintain the list in alphabetical order
 
 - **Sandip Bhagat**  
 [Email](mailto:sandipbgt@gmail.com) | [Github](https://github.com/sandipbgt) | [Website](http://sandipbgt.com) | [Linkedin](https://www.linkedin.com/in/sandipbgt/)
-
 
 - **Shital Babu Luitel**  
 [Email](mailto:ctalluitel@gmail.com) | [Github](https://github.com/shitalluitel) | [Linkedin](https://www.linkedin.com/in/shital-luitel-38363713a/)
