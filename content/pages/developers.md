@@ -46,6 +46,8 @@ Maintain the list in alphabetical order
 - **Santosh Purbey**  
 [Email](mailto:purbey.santosh@hotmail.com) | [Github](https://github.com/santoshpurbey) | [Linkedin](https://www.linkedin.com/in/santosh3511/)
 
+- **Subin Shrestha**  
+[Email](mailto:developer.shrestha@gmail.com) | [Github](https://github.com/sthasbin)
 
 - **Sudip Kafle**  
 [Email](mailto:soodip.kafle@gmail.com) | [Github](https://github.com/kaflesudip) | [Linkedin](https://www.linkedin.com/in/kaflesudip/)
