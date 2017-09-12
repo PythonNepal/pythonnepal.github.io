@@ -11,6 +11,9 @@ Maintain the list in alphabetical order
 - **Ashish Acharya**  
 [Email](mailto:ashish.acharya14@gmail.com) | [Github](https://github.com/code-geek) | [Website](http://ashishacharya.com) | [Linkedin](https://www.linkedin.com/in/ashishdotpy/)
 
+- **Ashok Rai**  
+[Email](mailto:ashokrai2053@gmail.com) | [Github](https://github.com/ashok-rai) | [Website](https://ashok-rai.com.np) | [Linkedin](https://www.linkedin.com/in/ashokayrai/)
+
 - **Ayush Ojha**  
 [Email](mailto:aimm.official@gmail.com) | [Github](https://github.com/officialaimm) | [Linkedin](https://www.linkedin.com/in/ayush-ojha-75206313a/)
 
