@@ -27,6 +27,9 @@ Maintain the list in alphabetical order
 - **Kiran Shahi**  
 [Email](mailto:kiran.shahi.np@gmail.com) | [Github](https://github.com/kiranshahi) | [Website](http://kirans.me) | [Linkedin](https://www.linkedin.com/in/itskirans/)
 
+- **Kishor Kumar Mahato**  
+[Email](mailto:cyberkishor@gmail.com) | [Github](https://github.com/cyberkishor) | [Linkedin](https://www.linkedin.com/in/kishrorkumar/) | [BitBucket](https://bitbucket.org/cyberkishor/)
+
 - **Manjil Shrestha**  
  [Email](mailto:shresthamanjil21@gmail.com) | [Github](https://github.com/smanjil) | [Linkedin](https://www.linkedin.com/in/manjil-shrestha-038527b4/)
  
