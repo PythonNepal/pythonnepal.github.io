@@ -38,7 +38,7 @@ Date: 2017-09-09 00:00
 - **Email**: info@ontreat.com  
 - **Location**: Lazimpat-2, Kathmandu  
 - **Website**: [ontreat.com](http://ontreat.com)
--  **Frameworks and Libraries**: Django, Pandas, Numpy, Scrapy
+-  **Frameworks and Libraries**: Django, Tornado, Numpy, Pandas, Scrapy, SQLAlchemy, Fabric
 
 ### Zeftware Solutions Pvt. Ltd.  
 - **Email**: info@zeftware.com  
