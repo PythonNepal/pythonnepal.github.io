@@ -45,3 +45,6 @@ Maintain the list in alphabetical order
 - **Sudip Kafle**  
 [Email](mailto:soodip.kafle@gmail.com) | [Github](https://github.com/kaflesudip) | [Linkedin](https://www.linkedin.com/in/kaflesudip/)
 
+- **Krishna Sunuwar**  
+[Github](https://github.com/s2krish) | [Linkedin](https://www.linkedin.com/in/s2krish/)
+
