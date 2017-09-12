@@ -11,6 +11,8 @@ Maintain the list in alphabetical order
 - **Ashish Acharya**  
 [Email](mailto:ashish.acharya14@gmail.com) | [Github](https://github.com/code-geek) | [Website](http://ashishacharya.com) | [Linkedin](https://www.linkedin.com/in/ashishdotpy/)
 
+- **Ayush Ojha**  
+[Email](mailto:aimm.official@gmail.com) | [Github](https://github.com/officialaimm) | [Linkedin](https://www.linkedin.com/in/ayush-ojha-75206313a/)
 
 - **Bikesh Kawan**  
 [Email](mailto:bikeshkawang@gmail.com) | [Github](https://github.com/bkawan)
@@ -28,6 +30,10 @@ Maintain the list in alphabetical order
 - **Krishna Sunuwar**  
 [Github](https://github.com/s2krish) | [Linkedin](https://www.linkedin.com/in/s2krish/)
 
+- **Kishor Kumar Mahato**  
+[Email](mailto:cyberkishor@gmail.com) | [Github](https://github.com/cyberkishor) | [Linkedin](https://www.linkedin.com/in/kishrorkumar/) | [BitBucket](https://bitbucket.org/cyberkishor/)
+
+
 - **Manjil Shrestha**  
  [Email](mailto:shresthamanjil21@gmail.com) | [Github](https://github.com/smanjil) | [Linkedin](https://www.linkedin.com/in/manjil-shrestha-038527b4/)
  
@@ -42,6 +48,9 @@ Maintain the list in alphabetical order
 
 - **Santosh Purbey**  
 [Email](mailto:purbey.santosh@hotmail.com) | [Github](https://github.com/santoshpurbey) | [Linkedin](https://www.linkedin.com/in/santosh3511/)
+
+- **Subin Shrestha**  
+[Email](mailto:developer.shrestha@gmail.com) | [Github](https://github.com/sthasbin)
 
 - **Sudip Kafle**  
 [Email](mailto:soodip.kafle@gmail.com) | [Github](https://github.com/kaflesudip) | [Linkedin](https://www.linkedin.com/in/kaflesudip/)
