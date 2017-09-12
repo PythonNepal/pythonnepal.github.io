@@ -54,3 +54,6 @@ Maintain the list in alphabetical order
 
 - **Sudip Kafle**  
 [Email](mailto:soodip.kafle@gmail.com) | [Github](https://github.com/kaflesudip) | [Linkedin](https://www.linkedin.com/in/kaflesudip/)
+
+- **Umesh Chaudhary**  
+[Email](mailto:umesschaudhary@gmail.com) | [Github](https://github.com/umschaudhary) | [Linkedin](https://www.linkedin.com/in/umesh-chaudhary-132589141/)|[Website](http://umschaudhary.github.io) 
