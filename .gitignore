@@ -60,6 +60,8 @@ target/
 pelican-plugins
 themes
 venv
-output
+output/*
+!output/.gitkeep
+cache
 *.pid
 

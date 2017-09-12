@@ -42,6 +42,7 @@ def regenerate():
 
 
 def serve():
+    build()
     os.chdir(env.deploy_path)
 
     PORT = 8000

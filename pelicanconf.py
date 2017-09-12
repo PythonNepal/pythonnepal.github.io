@@ -36,7 +36,7 @@ DEFAULT_PAGINATION = False
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
 
-THEME = "theme"
+THEME = "pure-single"
 COVER_IMG_URL = "https://upload.wikimedia.org/wikipedia/commons/4/40/Nepal_Patan_Mangal.jpg"
 
 STATIC_PATHS = ["static", "extra"]
