@@ -52,3 +52,5 @@ Maintain the list in alphabetical order
 - **Sudip Kafle**  
 [Email](mailto:soodip.kafle@gmail.com) | [Github](https://github.com/kaflesudip) | [Linkedin](https://www.linkedin.com/in/kaflesudip/)
 
+- **Sijan Bhandari**  
+[Email](mailto:sijanonly@gmail.com) | [Github](https://github.com/sijanonly) | [Website](https://sijanb.com.np/) | [Linkedin](https://www.linkedin.com/in/sijanonly/)
