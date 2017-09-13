@@ -8,6 +8,9 @@ Maintain the list in alphabetical order
 - **Amit Chaudhary**  
 [Email](mailto:meamitkc@gmail.com) | [Github](https://github.com/amitness) | [Website](https://amitness.com) | [Linkedin](https://www.linkedin.com/in/amitness/)
 
+- **Amit Garu**  
+[Email](mailto:amitgaru2@gmail.com) | [Github](https://github.com/arneec) | [Website](http://amitgaru.com.np) | [Linkedin](https://www.linkedin.com/in/amit-garu-b6b022145/)
+
 - **Ashish Acharya**  
 [Email](mailto:ashish.acharya14@gmail.com) | [Github](https://github.com/code-geek) | [Website](http://ashishacharya.com) | [Linkedin](https://www.linkedin.com/in/ashishdotpy/)
 
@@ -46,6 +49,9 @@ Maintain the list in alphabetical order
 - **Narayan Kandel**  
 [Email](mailto:npk.and@gmail.com) | [Github](https://github.com/nkandel) | [Linkedin](https://www.linkedin.com/in/narayankandel/)
 
+- **Rabi Raj Khadka**  
+[Email](mailto:er.rabirajkhadka@gmail.com) | [Github](https://github.com/rabirajkhadka) | [Website](http://rabirajkhadka.me) | [Linkedin](https://www.linkedin.com/in/rabirajkhadka/)
+
 - **Sandip Bhagat**  
 [Email](mailto:sandipbgt@gmail.com) | [Github](https://github.com/sandipbgt) | [Website](http://sandipbgt.com) | [Linkedin](https://www.linkedin.com/in/sandipbgt/)
 
@@ -60,6 +66,10 @@ Maintain the list in alphabetical order
 
 - **Subin Shrestha**  
 [Email](mailto:developer.shrestha@gmail.com) | [Github](https://github.com/sthasbin)
+
+- **Sudeep  Sharma**  
+[Linkedin](https://www.linkedin.com/in/sudeep-sharma-788152145/) | [Facebook](
+http://facebook.com/sudeep.sharma2052)
 
 - **Sudip Kafle**  
 [Email](mailto:soodip.kafle@gmail.com) | [Github](https://github.com/kaflesudip) | [Linkedin](https://www.linkedin.com/in/kaflesudip/)
