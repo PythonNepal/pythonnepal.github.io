@@ -76,3 +76,6 @@ http://facebook.com/sudeep.sharma2052)
 
 - **Umesh Chaudhary**  
 [Email](mailto:umesschaudhary@gmail.com) | [Github](https://github.com/umschaudhary) | [Linkedin](https://www.linkedin.com/in/umesh-chaudhary-132589141/)|[Website](http://umschaudhary.github.io) 
+
+- **Mandeep Khatry**  
+[Email](mailto:mandeepkhatry1997@gmail.com) | [Github](https://github.com/mandeepkhatry) | [Linkedin](https://www.linkedin.com/in/mandeep-khatry-a1059212a/)
