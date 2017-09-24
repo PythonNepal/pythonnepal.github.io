@@ -33,6 +33,10 @@ Maintain the list in alphabetical order
 - **Dhiraj Shah**  
 [Email](mailto:dhiraj.shah04@gmail.com) | [Github](https://github.com/dhirajshah04) | [Website](https://dhirajshah04.github.io) | [Linkedin](https://www.linkedin.com/in/dhiraj-shah-52aaa776)
 
+
+- **Joshan Gurung**  
+[Email](mailto: joshangurung@gmail.com) | [Github](https://github.com/joshan)
+
 - **Kiran Shahi**  
 [Email](mailto:kiran.shahi.np@gmail.com) | [Github](https://github.com/kiranshahi) | [Website](http://kirans.me) | [Linkedin](https://www.linkedin.com/in/itskirans/)
 
