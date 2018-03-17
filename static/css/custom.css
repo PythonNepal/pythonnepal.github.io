@@ -1,0 +1,29 @@
+/*
+ * Custom CSS
+ */
+
+/*
+ * Used to smoothen fonts out on the page. 
+ */
+*
+{
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/*
+ * Used in the front page, to display a icon grid, with information and links.
+ */
+.grid-sect {
+    text-align: center;
+    padding: 1em;
+}
+
+/*
+ * Used in the front page, to highlight an upcoming event.
+ */
+.info-box {
+    border-top: 3px solid #99f;
+    border-bottom: 3px solid #99f;
+    padding: 1em 1em;
+}
