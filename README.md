@@ -10,6 +10,8 @@ site's theme is based on [Pure Pelican Theme](https://github.com/PurePelicanThem
 
 ## Setup for local development
 
+> Please use the `source` branch for making changes. The changes are reflected automatically to master by travis build
+
 * Fork repo
 
   [Fork](https://github.com/PythonNepal/pythonnepal.github.io/fork) the repository to your account so that you have your copy of the website.
