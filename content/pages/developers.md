@@ -55,6 +55,9 @@ Maintain the list in alphabetical order
 - **Narayan Kandel**  
 [Email](mailto:npk.and@gmail.com) | [Github](https://github.com/nkandel) | [Linkedin](https://www.linkedin.com/in/narayankandel/)
 
+- **Nischal Lal Shrestha**  
+[Email](mailto:hi@nischal.info.np) | [Github](https://github.com/theonlyNischal) | [Linkedin](https://www.linkedin.com/in/theonlyNischal/) | [Nischal's Website](https://nischal.info.np/) | [Facebook](https://facebook.com/theonlyNischal/)
+
 - **Rabi Raj Khadka**  
 [Email](mailto:er.rabirajkhadka@gmail.com) | [Github](https://github.com/rabirajkhadka) | [Website](http://rabirajkhadka.me) | [Linkedin](https://www.linkedin.com/in/rabirajkhadka/)
 
