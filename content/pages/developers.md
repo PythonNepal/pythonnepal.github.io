@@ -12,7 +12,10 @@ Maintain the list in alphabetical order
 [Email](mailto:amitgaru2@gmail.com) | [Github](https://github.com/arneec) | [Website](http://amitgaru.com.np) | [Linkedin](https://www.linkedin.com/in/amit-garu-b6b022145/)
 
 - **Ashish Acharya**  
-[Email](mailto:ashish.acharya14@gmail.com) | [Github](https://github.com/code-geek) | [Website](http://ashishacharya.com) | [Linkedin](https://www.linkedin.com/in/ashishdotpy/)
+[Email](mailto:ashish.acharya14@gmail.com) | [Github](https://github.com/code-geek) | [Website](http://ashishacharya.com) | [Linkedin](https://www.linkedin.com/in/ashishdotpy/) 
+
+- **Ashish Tiwari**  
+[Email](mailto:hi@aashishtiwari.com.np) | [Github](https://github.com/MegaMind98) | [Ashish's Website](https://aashishtiwari.com.np) | [Linkedin](https://www.linkedin.com/in/MegaMindAT/) | [Linkedin](https://www.twitter.com/MegaMindAT)
 
 - **Ashok Rai**  
 [Email](mailto:ashokrai2053@gmail.com) | [Github](https://github.com/ashok-rai) | [Website](https://ashok-rai.com.np) | [Linkedin](https://www.linkedin.com/in/ashokayrai/)
@@ -26,13 +29,11 @@ Maintain the list in alphabetical order
 - **Bhishan Bhandari**  
 [Email](mailto:bbhishan@gmail.com) | [Github](https://github.com/bhishan) | [Website](http://thetaranights.com) | [Linkedin](https://www.linkedin.com/in/bhishan-bhandari-049800108)
 
-
 - **Damodar Lohani**  
 [Email](mailto:dlohani48@gmail.com) | [Github](https://github.com/lohanidamodar) | [Website](https://dlohani.com.np) | [Linkedin](https://www.linkedin.com/in/lohanidamodar)
 
 - **Dhiraj Shah**  
 [Email](mailto:dhiraj.shah04@gmail.com) | [Github](https://github.com/dhirajshah04) | [Website](https://dhirajshah04.github.io) | [Linkedin](https://www.linkedin.com/in/dhiraj-shah-52aaa776)
-
 
 - **Joshan Gurung**  
 [Email](mailto: joshangurung@gmail.com) | [Github](https://github.com/joshan)
@@ -85,5 +86,3 @@ http://facebook.com/sudeep.sharma2052)
 
 - **Umesh Chaudhary**  
 [Email](mailto:umesschaudhary@gmail.com) | [Github](https://github.com/umschaudhary) | [Linkedin](https://www.linkedin.com/in/umesh-chaudhary-132589141/)|[Website](http://umschaudhary.github.io) 
-
-
