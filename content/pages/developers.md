@@ -5,6 +5,9 @@ If you want to add yourself to the list, please send a PR [here](https://github.
 
 Maintain the list in alphabetical order
 
+- **Akash Adhikari**  
+[Email](mailto:contact@akashadhikari.com.np) | [Github](https://github.com/akashadhikari) | [Website](https://akashadhikari.com.np) | [Linkedin](https://www.linkedin.com/in/akashadh/)
+
 - **Amit Chaudhary**  
 [Email](mailto:meamitkc@gmail.com) | [Github](https://github.com/amitness) | [Website](https://amitness.com) | [Linkedin](https://www.linkedin.com/in/amitness/)
 
