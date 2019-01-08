@@ -12,7 +12,7 @@ Maintain the list in alphabetical order
 [Email](mailto:meamitkc@gmail.com) | [Github](https://github.com/amitness) | [Website](https://amitness.com) | [Linkedin](https://www.linkedin.com/in/amitness/)
 
 - **Amit Garu**  
-[Email](mailto:amitgaru2@gmail.com) | [Github](https://github.com/arneec) | [Website](http://amitgaru.com.np) | [Linkedin](https://www.linkedin.com/in/amit-garu-b6b022145/)
+[Email](mailto:amitgaru2@gmail.com) | [Github](https://github.com/arneec) | [Website](http://amitgaru.com.np) | [Linkedin](https://www.linkedin.com/in/xillar/)
 
 - **Ashish Acharya**  
 [Email](mailto:ashish.acharya14@gmail.com) | [Github](https://github.com/code-geek) | [Website](http://ashishacharya.com) | [Linkedin](https://www.linkedin.com/in/ashishdotpy/) 
