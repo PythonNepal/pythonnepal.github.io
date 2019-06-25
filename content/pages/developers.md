@@ -89,3 +89,6 @@ http://facebook.com/sudeep.sharma2052)
 
 - **Umesh Chaudhary**  
 [Email](mailto:umesschaudhary@gmail.com) | [Github](https://github.com/umschaudhary) | [Linkedin](https://www.linkedin.com/in/umesh-chaudhary-132589141/)|[Website](http://umschaudhary.github.io) 
+
+- **Aju Tamang**
+[Email](maito:ajutamang10@outlook.com) | [Github](https://github.com/Aju100) | [Linkedin](https://np.linkedin.com/in/aju-tamang-4a1a8514a)
