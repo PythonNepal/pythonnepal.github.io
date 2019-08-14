@@ -5,6 +5,9 @@ If you want to add yourself to the list, please send a PR [here](https://github.
 
 Maintain the list in alphabetical order
 
+- **Aju Tamang**
+[Email](mailto:ajutamang10@outlook.com) | [Github](https://github.com/Aju100) | [Linkedin](https://np.linkedin.com/in/aju-tamang-4a1a8514a)
+
 - **Akash Adhikari**  
 [Email](mailto:contact@akashadhikari.com.np) | [Github](https://github.com/akashadhikari) | [Website](https://akashadhikari.com.np) | [Linkedin](https://www.linkedin.com/in/akashadh/)
 
@@ -89,6 +92,3 @@ http://facebook.com/sudeep.sharma2052)
 
 - **Umesh Chaudhary**  
 [Email](mailto:umesschaudhary@gmail.com) | [Github](https://github.com/umschaudhary) | [Linkedin](https://www.linkedin.com/in/umesh-chaudhary-132589141/)|[Website](http://umschaudhary.github.io) 
-
-- **Aju Tamang**
-[Email](mailto:ajutamang10@outlook.com) | [Github](https://github.com/Aju100) | [Linkedin](https://np.linkedin.com/in/aju-tamang-4a1a8514a)
