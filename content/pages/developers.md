@@ -62,6 +62,9 @@ Maintain the list in alphabetical order
 - **Nischal Lal Shrestha**  
 [Email](mailto:hi@nischal.info.np) | [Github](https://github.com/theonlyNischal) | [Linkedin](https://www.linkedin.com/in/theonlyNischal/) | [Nischal's Website](https://nischal.info.np/) | [Facebook](https://facebook.com/theonlyNischal/)
 
+- **Pujan Thapa**  
+[Email](mailto:iampujan@outlook.com) | [Github](https://github.com/iampujan) | [Twitter](https://twitter.com/iampujan20)  | [Website](https://pujanthapa.com.np) | [Linkedin](https://www.linkedin.com/in/iampujan/)
+
 - **Rabi Raj Khadka**  
 [Email](mailto:er.rabirajkhadka@gmail.com) | [Github](https://github.com/rabirajkhadka) | [Website](http://rabirajkhadka.me) | [Linkedin](https://www.linkedin.com/in/rabirajkhadka/)
 
