@@ -74,6 +74,9 @@ Maintain the list in alphabetical order
 - **Sandip Bhagat**  
 [Email](mailto:sandipbgt@gmail.com) | [Github](https://github.com/sandipbgt) | [Website](http://sandipbgt.com) | [Linkedin](https://www.linkedin.com/in/sandipbgt/)
 
+- **Santosh Ghimire**  
+[Email](mailto:santosh.ghimire33@gmail.com) | [Github](https://github.com/santoshghimire) | [Linkedin](https://www.linkedin.com/in/santoshghimire/)
+
 - **Santosh Purbey**  
 [Email](mailto:purbey.santosh@hotmail.com) | [Github](https://github.com/santoshpurbey) | [Linkedin](https://www.linkedin.com/in/santosh3511/)
 
