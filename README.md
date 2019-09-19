@@ -22,10 +22,20 @@ site's theme is based on [Pure Pelican Theme](https://github.com/PurePelicanThem
 
 This will clone the repository on to your system and clone the submodules inside it as well recursively. Additionally, the folder to which it will be cloned to is called `pynepal-website`.
 
+## You can choose any option 
+
+### Option 1
 * Set up a pipenv in that folder and activate it
 
         $ cd <repo>
         $ pipenv shell
+### Option 2
+* Set up a virtual env in that folder and activate it 
+
+        $ cd <repo>
+        $ virtualenv venv
+        $ source venv/bin/activate
+
 
 * Install the requirements using `pip` from inside the virtual environment
 
