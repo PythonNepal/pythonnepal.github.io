@@ -78,7 +78,7 @@ Tags: Events
 - **Talks:**
 
 	1. **Asynchronous Task Queues with Celery** - Kishor Mahato: [Slides](http://www.slideshare.net/KishrorKumar/asynchronous-task-queues-with-celery)  
-	2. **List comprehension and its lazy Applications** - Rohitman Amatya: [Slides](http://rhoit.com/talks/pydev%237/)
+	2. **List comprehension and its lazy Applications** - Rohit Man Amatya: [Slides](http://rhoit.com/talks/pydev7/)
 	3. **Test Driven Development with Python** - Suren Shrestha: [Materials](https://github.com/ludbek/tdd-presentation)
 
 
