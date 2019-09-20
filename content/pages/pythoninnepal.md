@@ -2,13 +2,6 @@ Title: Use of Python in Nepal
 Date: 2017-09-09 00:00
 
 
-### BitsInnovation Pvt. Ltd.     
-- **Email**: info@bitsinnovation.com  
-- **Location**: Bijulibazar,Bogati Tol,  New Baneshwor, Kathmandu  
-- **Website**: [bitsinnovation.com](http://www.bitsinnovation.com)
-- **Use**: Web Development, Web Scrapping  
--  **Frameworks and Libraries**: Django  
-
 ### Binwary
 - **Email**: piratesiddhant@gmail.com  
 - **Location**: Biratnagar  
@@ -27,7 +20,14 @@ Date: 2017-09-09 00:00
 - **Email**: aimicrolabs@gmail.com
 - **Location**: Tinkune, Kathmandu  
 - **Use**: Machine Learning Products  
--  **Frameworks and Libraries**: Numpy   
+-  **Frameworks and Libraries**: Numpy  
+
+### MPercept Technology  
+- **Email**: info@mpercept.com  
+- **Location**: Chakupat, Lalitpur
+- **Website**: [mpercept.com](http://mpercept.com)
+- **Use**: Python is extensively used in our company. We use Python to develop AI and ML systems, Data Science, IoT solutions, Web Development and so on.
+-  **Frameworks and Libraries**: Flask, Django, Tensorflow, Keras, PyTorch  
 
 ### Ministry of Health  
 - **Location**: Kathmandu  
