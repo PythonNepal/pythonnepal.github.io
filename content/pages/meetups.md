@@ -119,10 +119,31 @@ Tags: Events
 
 ### Python Meetup #12
 - **Date:** 19th August 2017  
-- **Venue:** FuseMachines Nepal  
+- **Venue:** FuseMachines Nepal, Hattisar, Kathmandu  
 - **Talks:**
 
 	1. **Teaching and Learning with Microbit** - Swornim Shrestha: [Slides](https://www.facebook.com/groups/pythonnepal/939851522824110/)  
 	2. **Testing REST APIs** - Sijan Bhandari: [Slides](https://www.slideshare.net/SijanOnly/api-testing-78982132)
 	3. **Writing clean code** - Nishan Panta: [Slides](http://www.nishanpantha.com.np/writing-clean-code)
 	4. **Panel discussion on Securing Modern applications**
+	
+### Python Meetup #13
+- **Date:** 18th November 2017  
+- **Venue:** Microsoft Innovation Center Nepal, New Road, Kathmandu  
+- **Talks:**
+
+	1. **Functional Programming in Python** - Bibek Pandey: [Slides](https://www.facebook.com/groups/pythonnepal/)  
+	2. **Demystifying Python Decorators** - Tara Prasad Gurung: [Slides](https://www.slideshare.net/)
+	3. **Load Testing with Locust** - Kapil Raj Nakhwa: [Slides](http://www.)
+	4. **Deep Learning with Pytorch** - Sujit Maharjan: [Slides](http://www)
+	
+### Python Meetup #14
+- **Date:** 14th September 2019 
+- **Venue:** Leapfrog Technology, Charkhal, Dillibazaar, Kathmandu
+- **Event Page:** [Link](https://www.facebook.com/events/463240847564665) 
+- **Talks:**
+
+	1. **Parallelism and concurrency options in Python 3** - Sagar Chalise: [Slides](https://)  
+	2. **Machine Learning Projects: The same and the different** - Bijay Gurung: [Slides](https://)
+	3. **Computer Vision, Medical Imaging and Deep Learning - Overview and Challenges** - Bishesh Khanal: [Slides](http://)
+	4. **Lightening Talks and Networking Session**
