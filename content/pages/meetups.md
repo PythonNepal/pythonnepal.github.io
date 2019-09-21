@@ -8,9 +8,9 @@ Tags: Events
 - **Event Page:** [Link](https://www.facebook.com/events/463240847564665) 
 - **Talks:**
 
-	1. **Parallelism and concurrency options in Python 3** - Sagar Chalise: [Slides](https://)  
-	2. **Machine Learning Projects: The same and the different** - Bijay Gurung: [Slides](https://)
-	3. **Computer Vision, Medical Imaging and Deep Learning - Overview and Challenges** - Bishesh Khanal: [Slides](http://)
+	1. **Parallelism and concurrency options in Python 3** - Sagar Chalise: [Slides](#)  
+	2. **Machine Learning Projects: The same and the different** - Bijay Gurung: [Slides](#)
+	3. **Computer Vision, Medical Imaging and Deep Learning - Overview and Challenges** - Bishesh Khanal: [Slides](#)
 	4. **Lightening Talks and Networking Session**
 
 
@@ -19,10 +19,10 @@ Tags: Events
 - **Venue:** Microsoft Innovation Center Nepal, New Road, Kathmandu  
 - **Talks:**
 
-	1. **Functional Programming in Python** - Bibek Pandey: [Slides](https://www.facebook.com/groups/pythonnepal/)  
-	2. **Demystifying Python Decorators** - Tara Prasad Gurung: [Slides](https://www.slideshare.net/)
-	3. **Load Testing with Locust** - Kapil Raj Nakhwa: [Slides](http://www.)
-	4. **Deep Learning with Pytorch** - Sujit Maharjan: [Slides](http://www)
+	1. **Functional Programming in Python** - Bibek Pandey: [Video](https://www.youtube.com/watch?v=Qv9JH5L8NWc)  
+	2. **Demystifying Python Decorators** - Tara Prasad Gurung: [Video](https://www.youtube.com/watch?v=8R8gPLdDn7Y)
+	3. **Load Testing with Locust** - Kapil Raj Nakhwa: [Video](https://www.youtube.com/watch?v=pex1-W0BaHw)
+	4. **Deep Learning with Pytorch** - Sujit Maharjan: [Video](https://www.youtube.com/watch?v=X9gXeCdy3O0)
 
 
 ### Python Meetup #12
@@ -83,7 +83,7 @@ Tags: Events
 - **Talks:**
 
 	1. **Asynchronous Task Queues with Celery** - Kishor Mahato: [Slides](http://www.slideshare.net/KishrorKumar/asynchronous-task-queues-with-celery)  
-	2. **List comprehension and its lazy Applications** - Rohitman Amatya: [Slides](http://rhoit.com/talks/pydev%237/)
+	2. **List comprehension and its lazy Applications** - Rohit Man Amatya: [Slides](https://rhoit.com/talks/pydev7/)
 	3. **Test Driven Development with Python** - Suren Shrestha: [Materials](https://github.com/ludbek/tdd-presentation)
 
 
