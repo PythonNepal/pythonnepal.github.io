@@ -8,9 +8,9 @@ Tags: Events
 - **Event Page:** [Link](https://www.facebook.com/events/463240847564665) 
 - **Talks:**
 
-	1. **Parallelism and concurrency options in Python 3** - Sagar Chalise: [Slides](/static/pytalk.pdf)  
-	2. **Machine Learning Projects: The same and the different** - Bijay Gurung: [Slides](/static/bijay.pdf)
-	3. **Computer Vision, Medical Imaging and Deep Learning - Overview and Challenges** - Bishesh Khanal: [Slides](/static/bishesh.pdf)
+	1. **Parallelism and concurrency options in Python 3** - Sagar Chalise: [Slides](/static/pytalk.pdf) | [Video](https://www.youtube.com/watch?v=jNp9ZTzgfIQ)    
+	2. **Machine Learning Projects: The same and the different** - Bijay Gurung: [Slides](/static/bijay.pdf) | [Video](https://www.youtube.com/watch?v=ApR0dTzeK20)  
+	3. **Computer Vision, Medical Imaging and Deep Learning - Overview and Challenges** - Bishesh Khanal: [Slides](/static/bishesh.pdf) | [Video](https://www.youtube.com/watch?v=sYPJZYr38wI)  
 	4. **Lightening Talks and Networking Session**
 	     
 	     - **Pydata Introduction** - Shekhar Koirala: [Slides](/static/pydata.pdf)
