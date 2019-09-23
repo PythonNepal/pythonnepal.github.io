@@ -25,6 +25,11 @@ Requests, Pygame, Django
 - **Use**: AI projects
 - **Frameworks and Libraries**: Tensorflow, pytorch, skit-learn,etc.
 
+### Kharpann Enterprises Pvt. Ltd
+- **Email**: support@kharpann.com
+- **Location**: Balkhu, Kathmandu
+- **Website**:  [Kharpann](http://www.kharpann.com)
+- **Use**: Webcrawling, Machine Learning, Deep Learning, Web-app Development
 
 ### Leapfrog Technology       
 - **Email**: kabirbaidhya@gmail.com  
