@@ -54,6 +54,13 @@ Requests, Pygame, Django
 - **Website**: [ontreat.com](http://ontreat.com)
 -  **Frameworks and Libraries**: Django, Tornado, Numpy, Pandas, Scrapy, SQLAlchemy, Fabric
 
+### Sellercrowd
+- **Email**: soodip.kafle@gmail.com
+- **Location**: New York( working remotely from kathmandu)
+- **Website**:[Sellercrowd](http://sellercrowd.com)
+- **Use**: Web Development
+- **Framework and Libraries**: Django, React
+
 ### Zeftware Solutions Pvt. Ltd.  
 - **Email**: info@zeftware.com  
 - **Location**: Ram Laxman Marga, Biratnagar-01  
