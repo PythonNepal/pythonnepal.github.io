@@ -15,7 +15,16 @@ Date: 2017-09-09 00:00
 - **Phone**: 9825349610
 - **Website**: [binwary.com](http://www.binwary.com)
 - **Use**: We use python mostly for android application.  
--  **Frameworks and Libraries**: Requests, Pygame, Django
+-  **Frameworks and Libraries**:
+Requests, Pygame, Django
+
+### Fusemachines Inc
+- **Email**: suman@fusemachine.com
+- **Location**: Kathmandu, Nepal
+- **Website**:[Fusemachines](http://fusemachines.com)
+- **Use**: AI projects
+- **Frameworks and Libraries**: Tensorflow, pytorch, skit-learn,etc.
+
 
 ### Leapfrog Technology       
 - **Email**: kabirbaidhya@gmail.com  
