@@ -83,6 +83,9 @@ Maintain the list in alphabetical order
 - **Santosh Purbey**  
 [Email](mailto:purbey.santosh@hotmail.com) | [Github](https://github.com/santoshpurbey) | [Linkedin](https://www.linkedin.com/in/santosh3511/)
 
+- **Saroj Bhattarai**  
+[Email](mailto:sarojbhattarai2053@gmail.com) | [Github](https://github.com/thevirusx3) | [Linkedin](https://www.linkedin.com/in/thevirusx3/)
+
 - **Shital Babu Luitel**  
 [Email](mailto:ctalluitel@gmail.com) | [Github](https://github.com/shitalluitel) | [Linkedin](https://www.linkedin.com/in/shital-luitel-38363713a/)
 
