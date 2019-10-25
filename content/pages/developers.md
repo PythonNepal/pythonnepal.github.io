@@ -5,6 +5,9 @@ If you want to add yourself to the list, please send a PR [here](https://github.
 
 Maintain the list in alphabetical order
 
+- **Aaditya Chapagian**  
+[Email](mailto:chapagain.aaditya@gmail.com)  | [Github](https://github.com/aadityachapagain) | [Linkedin](https://www.linkedin.com/in/aaditya-chapagain-b5170a104)
+
 - **Aju Tamang**  
 [Email](mailto:ajutamang10@outlook.com) | [Github](https://github.com/Aju100) | [Linkedin](https://np.linkedin.com/in/aju-tamang-4a1a8514a)
 
@@ -103,7 +106,4 @@ http://facebook.com/sudeep.sharma2052)
 [Email](mailto:soodip.kafle@gmail.com) | [Github](https://github.com/kaflesudip) | [Linkedin](https://www.linkedin.com/in/kaflesudip/)
 
 - **Umesh Chaudhary**  
-[Email](mailto:umesschaudhary@gmail.com) | [Github](https://github.com/umschaudhary) | [Linkedin](https://www.linkedin.com/in/umesh-chaudhary-132589141/) | [Website](http://umschaudhary.github.io) 
-
-- **Utsav Ratna Tuladhar**  
-[Email](mailto:utsav.ratna@gmail.com) | [Github](https://github.com/UtsavRatna) | [Linkedin](https://www.linkedin.com/in/utsav-ratna-tuladhar-b74735119/) | [Website](http://utsavratna33.azurewebsites.net) 
+[Email](mailto:umesschaudhary@gmail.com) | [Github](https://github.com/umschaudhary) | [Linkedin](https://www.linkedin.com/in/umesh-chaudhary-132589141/)|[Website](http://umschaudhary.github.io) 
