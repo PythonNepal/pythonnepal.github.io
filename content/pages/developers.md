@@ -103,4 +103,7 @@ http://facebook.com/sudeep.sharma2052)
 [Email](mailto:soodip.kafle@gmail.com) | [Github](https://github.com/kaflesudip) | [Linkedin](https://www.linkedin.com/in/kaflesudip/)
 
 - **Umesh Chaudhary**  
-[Email](mailto:umesschaudhary@gmail.com) | [Github](https://github.com/umschaudhary) | [Linkedin](https://www.linkedin.com/in/umesh-chaudhary-132589141/)|[Website](http://umschaudhary.github.io) 
+[Email](mailto:umesschaudhary@gmail.com) | [Github](https://github.com/umschaudhary) | [Linkedin](https://www.linkedin.com/in/umesh-chaudhary-132589141/) | [Website](http://umschaudhary.github.io) 
+
+- **Utsav Ratna Tuladhar**  
+[Email](mailto:utsav.ratna@gmail.com) | [Github](https://github.com/UtsavRatna) | [Linkedin](https://www.linkedin.com/in/utsav-ratna-tuladhar-b74735119/) | [Website](http://utsavratna33.azurewebsites.net) 
