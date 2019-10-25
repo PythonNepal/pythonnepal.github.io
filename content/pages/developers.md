@@ -5,6 +5,9 @@ If you want to add yourself to the list, please send a PR [here](https://github.
 
 Maintain the list in alphabetical order
 
+- **Aaditya Chapagain**  
+[Email](mailtto:chapagain.aaditya@gmail.com) | [Github](https://github.com/aadityachapagain) | [Linkedin](https://www.linkedin.com/in/aaditya-chapagain-b5170a104/)
+
 - **Aju Tamang**  
 [Email](mailto:ajutamang10@outlook.com) | [Github](https://github.com/Aju100) | [Linkedin](https://np.linkedin.com/in/aju-tamang-4a1a8514a)
 
