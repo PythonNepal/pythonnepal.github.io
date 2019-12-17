@@ -62,6 +62,9 @@ Maintain the list in alphabetical order
 - **Mandeep Khatry**  
 [Email](mailto:mandeepkhatry1997@gmail.com) | [Github](https://github.com/mandeepkhatry) | [Linkedin](https://www.linkedin.com/in/mandeep-khatry-a1059212a/)
 
+- **Manish Bhattarai**  
+[Email](mailto:bhaimanish00@gmail.com) | [Github](https://github.com/nepalikingpin) | [Linkedin](https://www.linkedin.com/in/tecchy/)
+
 - **Manjil Shrestha**  
  [Email](mailto:shresthamanjil21@gmail.com) | [Github](https://github.com/smanjil) | [Linkedin](https://www.linkedin.com/in/manjil-shrestha-038527b4/)
  
