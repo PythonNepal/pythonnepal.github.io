@@ -111,6 +111,9 @@ http://facebook.com/sudeep.sharma2052)
 - **Sudip Kafle**  
 [Email](mailto:soodip.kafle@gmail.com) | [Github](https://github.com/kaflesudip) | [Linkedin](https://www.linkedin.com/in/kaflesudip/)
 
+- **Summit Shrestha**  
+[Email](mailto:sumz.stha01@gmail.com) | [Github](https://github.com/SummitStha) | [Linkedin](https://www.linkedin.com/in/summit-shrestha-50089a137/)
+
 - **Umesh Chaudhary**  
 [Email](mailto:umesschaudhary@gmail.com) | [Github](https://github.com/umschaudhary) | [Linkedin](https://www.linkedin.com/in/umesh-chaudhary-132589141/) | [Website](http://umschaudhary.github.io) 
 
