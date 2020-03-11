@@ -11,14 +11,14 @@ sys.path.append(os.curdir)
 from pelicanconf import *
 
 MENUITEMS = [
-    ("Companies", "https://pythonnepal.org/pages/pythoninnepal.html"),
-    ("Developers", "https://pythonnepal.org/pages/developers.html"),
-    ("Resources", "https://pythonnepal.org/pages/resources.html"),
-    ("Meetups", "https://pythonnepal.org/pages/meetups.html"),
-    ("Videos", "https://pythonnepal.org/pages/videos.html")
+    ("Companies", "http://pythonnepal.org/pages/pythoninnepal.html"),
+    ("Developers", "http://pythonnepal.org/pages/developers.html"),
+    ("Resources", "http://pythonnepal.org/pages/resources.html"),
+    ("Meetups", "http://pythonnepal.org/pages/meetups.html"),
+    ("Videos", "http://pythonnepal.org/pages/videos.html")
 ]
 
-SITEURL = 'https://pythonnepal.org'
+SITEURL = 'http://pythonnepal.org'
 RELATIVE_URLS = False
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
