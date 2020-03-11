@@ -8,7 +8,21 @@ Date: 2017-09-09 00:00
 - **Phone**: 9825349610
 - **Website**: [binwary.com](http://www.binwary.com)
 - **Use**: We use python mostly for android application.  
--  **Frameworks and Libraries**: Requests, Pygame, Django
+-  **Frameworks and Libraries**:
+Requests, Pygame, Django
+
+### Fusemachines Inc
+- **Email**: suman@fusemachine.com
+- **Location**: Kathmandu, Nepal
+- **Website**:[Fusemachines](http://fusemachines.com)
+- **Use**: AI projects
+- **Frameworks and Libraries**: Tensorflow, pytorch, skit-learn,etc.
+
+### Kharpann Enterprises Pvt. Ltd
+- **Email**: support@kharpann.com
+- **Location**: Balkhu, Kathmandu
+- **Website**:  [Kharpann](http://www.kharpann.com)
+- **Use**: Webcrawling, Machine Learning, Deep Learning, Web-app Development
 
 ### Leapfrog Technology       
 - **Email**: kabirbaidhya@gmail.com  
@@ -39,6 +53,13 @@ Date: 2017-09-09 00:00
 - **Location**: Lazimpat-2, Kathmandu  
 - **Website**: [ontreat.com](http://ontreat.com)
 -  **Frameworks and Libraries**: Django, Tornado, Numpy, Pandas, Scrapy, SQLAlchemy, Fabric
+
+### Sellercrowd
+- **Email**: soodip.kafle@gmail.com
+- **Location**: New York( working remotely from kathmandu)
+- **Website**:[Sellercrowd](http://sellercrowd.com)
+- **Use**: Web Development
+- **Framework and Libraries**: Django, React
 
 ### Zeftware Solutions Pvt. Ltd.  
 - **Email**: info@zeftware.com  
