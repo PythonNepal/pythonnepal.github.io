@@ -80,6 +80,9 @@ Maintain the list in alphabetical order
 - **Rabi Raj Khadka**  
 [Email](mailto:er.rabirajkhadka@gmail.com) | [Github](https://github.com/rabirajkhadka) | [Website](http://rabirajkhadka.me) | [Linkedin](https://www.linkedin.com/in/rabirajkhadka/)
 
+- **Sachin Dahal**  
+[Email](mailto:sachindahal594@gmail.com) | [Github](https://github.com/sachin-dahal) | [Website](http://sachind.com.np/) | [Linkedin](https://www.linkedin.com/in/sachin-dahal)
+
 - **Sandip Bhagat**  
 [Email](mailto:sandipbgt@gmail.com) | [Github](https://github.com/sandipbgt) | [Website](http://sandipbgt.com) | [Linkedin](https://www.linkedin.com/in/sandipbgt/)
 
