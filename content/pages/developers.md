@@ -56,6 +56,9 @@ Maintain the list in alphabetical order
 - **Krishna Sunuwar**  
 [Github](https://github.com/s2krish) | [Linkedin](https://www.linkedin.com/in/s2krish/)
 
+- **Krishna Mohan Shah**  
+[Email](mailto:mailforkrishnashah@gmail.com) | [Github](https://github.com/krishnamshah) | [Linkedin](https://www.linkedin.com/in/krishnamohanshah/) | [Website](http://krishnamshah.com/) |  [Twitter](https://twitter.com/kkrsnaa) 
+
 - **Kishor Kumar Mahato**  
 [Email](mailto:cyberkishor@gmail.com) | [Github](https://github.com/cyberkishor) | [Linkedin](https://www.linkedin.com/in/kishrorkumar/) | [BitBucket](https://bitbucket.org/cyberkishor/)
 
