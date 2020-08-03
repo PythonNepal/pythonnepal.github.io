@@ -121,4 +121,4 @@ http://facebook.com/sudeep.sharma2052)
 [Email](mailto:utsav.ratna@gmail.com) | [Github](https://github.com/UtsavRatna) | [Linkedin](https://www.linkedin.com/in/utsav-ratna-tuladhar-b74735119/) | [Website](http://utsavratna33.azurewebsites.net)
 
 - **Soyuj Jung Basnet**  
-[Email](mailto:bsoyuj@gmail.com) | [Github](https://github.com/basnetsoyuj) | [Website](https://www.basnetsoyuj.com.np) | [Linkedin](https://www.linkedin.com/in/basnetsoyuj/)
+[Email](mailto:bsoyuj@gmail.com) | [Github](https://github.com/basnetsoyuj) | [Website](https://soyuj.com.np) | [Linkedin](https://www.linkedin.com/in/basnetsoyuj/)
