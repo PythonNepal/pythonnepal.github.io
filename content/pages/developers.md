@@ -107,6 +107,9 @@ Maintain the list in alphabetical order
 - **Sijan Bhandari**  
 [Email](mailto:sijanonly@gmail.com) | [Github](https://github.com/sijanonly) | [Website](https://sijanb.com.np/) | [Linkedin](https://www.linkedin.com/in/sijanonly/)
 
+- **Sisir Ghimire Chettri**  
+[Email](mailto:samratsisir294@gmail.com) | [Github](https://github.com/tuxsisir) | [Website](https://tuxsisir.github.io)
+
 - **Subin Shrestha**  
 [Email](mailto:developer.shrestha@gmail.com) | [Github](https://github.com/sthasbin)
 
