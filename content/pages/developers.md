@@ -113,6 +113,9 @@ Maintain the list in alphabetical order
 - **Sisir Ghimire Chettri**  
 [Email](mailto:samratsisir294@gmail.com) | [Github](https://github.com/tuxsisir) | [Website](https://tuxsisir.github.io)
 
+- **Soyuj Jung Basnet**  
+[Email](mailto:bsoyuj@gmail.com) | [Github](https://github.com/basnetsoyuj) | [Website](https://soyuj.com.np) | [Linkedin](https://www.linkedin.com/in/basnetsoyuj/)
+
 - **Subin Shrestha**  
 [Email](mailto:developer.shrestha@gmail.com) | [Github](https://github.com/sthasbin)
 
