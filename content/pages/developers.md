@@ -20,6 +20,9 @@ Maintain the list in alphabetical order
 - **Amit Garu**  
 [Email](mailto:amitgaru2@gmail.com) | [Github](https://github.com/arneec) | [Website](http://amitgaru.com.np) | [Linkedin](https://www.linkedin.com/in/xillar/)
 
+- **Anish Ghimire**  
+[Email](mailto:aghimire603@gmail.com) | [Github](https://github.com/anishghimire603) | [Website](https://ganish.com.np/) | [Linkedin](https://www.linkedin.com/in/anish-ghimire-4b872715a/)
+
 - **Ashish Acharya**  
 [Email](mailto:ashish.acharya14@gmail.com) | [Github](https://github.com/code-geek) | [Website](http://ashishacharya.com) | [Linkedin](https://www.linkedin.com/in/ashishdotpy/) 
 
@@ -80,6 +83,9 @@ Maintain the list in alphabetical order
 - **Rabi Raj Khadka**  
 [Email](mailto:er.rabirajkhadka@gmail.com) | [Github](https://github.com/rabirajkhadka) | [Website](http://rabirajkhadka.me) | [Linkedin](https://www.linkedin.com/in/rabirajkhadka/)
 
+- **Rajat Shrestha**  
+[Email](mailto:rajat.shrestha@eydean.com) | [Github](https://github.com/shrestharajat) | [Website](http://shrestharajat.tech) | [Linkedin](https://www.linkedin.com/in/shrestharajat/)
+
 - **Sachin Dahal**  
 [Email](mailto:sachindahal594@gmail.com) | [Github](https://github.com/sachin-dahal) | [Website](http://sachind.com.np/) | [Linkedin](https://www.linkedin.com/in/sachin-dahal)
 
@@ -104,12 +110,14 @@ Maintain the list in alphabetical order
 - **Sijan Bhandari**  
 [Email](mailto:sijanonly@gmail.com) | [Github](https://github.com/sijanonly) | [Website](https://sijanb.com.np/) | [Linkedin](https://www.linkedin.com/in/sijanonly/)
 
+- **Sisir Ghimire Chettri**  
+[Email](mailto:samratsisir294@gmail.com) | [Github](https://github.com/tuxsisir) | [Website](https://tuxsisir.github.io)
+
 - **Subin Shrestha**  
 [Email](mailto:developer.shrestha@gmail.com) | [Github](https://github.com/sthasbin)
 
 - **Sudeep  Sharma**  
-[Linkedin](https://www.linkedin.com/in/sudeep-sharma-788152145/) | [Facebook](
-http://facebook.com/sudeep.sharma2052)
+[Linkedin](https://www.linkedin.com/in/sudeep-sharma-788152145/) | [Facebook](http://facebook.com/sudeep.sharma2052)
 
 - **Sudip Kafle**  
 [Email](mailto:soodip.kafle@gmail.com) | [Github](https://github.com/kaflesudip) | [Linkedin](https://www.linkedin.com/in/kaflesudip/)
