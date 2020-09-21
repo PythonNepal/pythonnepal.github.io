@@ -48,7 +48,7 @@ Maintain the list in alphabetical order
 [Email](mailto:dhiraj.shah04@gmail.com) | [Github](https://github.com/dhirajshah04) | [Website](https://dhirajshah04.github.io) | [Linkedin](https://www.linkedin.com/in/dhiraj-shah-52aaa776)
 
 - **Hemanta Sharma**  
-[Email](mailto:sharmahemanta.212@gmail.com) | [Github](https://github.com/hemanta212) | [Website](https://hemanta212.github.io) | [Linkedin](https://www.linkedin.com/in/hemanta-sharma-636290137)
+[Email](mailto:sharmahemanta.212@gmail.com) | [Github](https://github.com/hemanta212) | [Website](https://hemanta212.github.io) | [Youtube](https://youtube.com/channel/UCSEjG-VVENmjMg1srEa_hLQ) | [Linkedin](https://www.linkedin.com/in/hemanta-sharma-636290137)
 
 - **Joshan Gurung**  
 [Email](mailto: joshangurung@gmail.com) | [Github](https://github.com/joshan)
