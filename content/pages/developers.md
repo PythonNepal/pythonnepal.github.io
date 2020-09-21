@@ -20,6 +20,9 @@ Maintain the list in alphabetical order
 - **Amit Garu**  
 [Email](mailto:amitgaru2@gmail.com) | [Github](https://github.com/arneec) | [Website](http://amitgaru.com.np) | [Linkedin](https://www.linkedin.com/in/xillar/)
 
+- **Anish Ghimire**  
+[Email](mailto:aghimire603@gmail.com) | [Github](https://github.com/anishghimire603) | [Website](https://ganish.com.np/) | [Linkedin](https://www.linkedin.com/in/anish-ghimire-4b872715a/)
+
 - **Ashish Acharya**  
 [Email](mailto:ashish.acharya14@gmail.com) | [Github](https://github.com/code-geek) | [Website](http://ashishacharya.com) | [Linkedin](https://www.linkedin.com/in/ashishdotpy/) 
 
