@@ -86,6 +86,9 @@ Maintain the list in alphabetical order
 - **Rajat Shrestha**  
 [Email](mailto:rajat.shrestha@eydean.com) | [Github](https://github.com/shrestharajat) | [Website](http://shrestharajat.tech) | [Linkedin](https://www.linkedin.com/in/shrestharajat/)
 
+- **Sachin Dahal**  
+[Email](mailto:sachindahal594@gmail.com) | [Github](https://github.com/sachin-dahal) | [Website](http://sachind.com.np/) | [Linkedin](https://www.linkedin.com/in/sachin-dahal)
+
 - **Sandip Bhagat**  
 [Email](mailto:sandipbgt@gmail.com) | [Github](https://github.com/sandipbgt) | [Website](http://sandipbgt.com) | [Linkedin](https://www.linkedin.com/in/sandipbgt/)
 
@@ -114,8 +117,7 @@ Maintain the list in alphabetical order
 [Email](mailto:developer.shrestha@gmail.com) | [Github](https://github.com/sthasbin)
 
 - **Sudeep  Sharma**  
-[Linkedin](https://www.linkedin.com/in/sudeep-sharma-788152145/) | [Facebook](
-http://facebook.com/sudeep.sharma2052)
+[Linkedin](https://www.linkedin.com/in/sudeep-sharma-788152145/) | [Facebook](http://facebook.com/sudeep.sharma2052)
 
 - **Sudip Kafle**  
 [Email](mailto:soodip.kafle@gmail.com) | [Github](https://github.com/kaflesudip) | [Linkedin](https://www.linkedin.com/in/kaflesudip/)
