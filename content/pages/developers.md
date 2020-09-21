@@ -83,6 +83,9 @@ Maintain the list in alphabetical order
 - **Rajat Shrestha**  
 [Email](mailto:rajat.shrestha@eydean.com) | [Github](https://github.com/shrestharajat) | [Website](http://shrestharajat.tech) | [Linkedin](https://www.linkedin.com/in/shrestharajat/)
 
+- **Rupak Karki**  
+[Email](mailto:rupakkarki123@gmail.com) | [Github](https://github.com/rupakkarki27) | [Linkedin](https://www.linkedin.com/in/rupakkarki) | [Website](https://www.rupakkarki.com.np) 
+
 - **Sandip Bhagat**  
 [Email](mailto:sandipbgt@gmail.com) | [Github](https://github.com/sandipbgt) | [Website](http://sandipbgt.com) | [Linkedin](https://www.linkedin.com/in/sandipbgt/)
 
@@ -122,6 +125,3 @@ http://facebook.com/sudeep.sharma2052)
 
 - **Utsav Ratna Tuladhar**  
 [Email](mailto:utsav.ratna@gmail.com) | [Github](https://github.com/UtsavRatna) | [Linkedin](https://www.linkedin.com/in/utsav-ratna-tuladhar-b74735119/) | [Website](http://utsavratna33.azurewebsites.net) 
-
-- **Rupak Karki**  
-[Email](mailto:rupakkarki123@gmail.com) | [Github](https://github.com/rupakkarki27) | [Linkedin](https://www.linkedin.com/in/rupakkarki) | [Website](https://www.rupakkarki.com.np) 
