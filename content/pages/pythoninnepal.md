@@ -40,6 +40,13 @@ Date: 2017-09-09 00:00
 - **Website**: [ontreat.com](http://ontreat.com)
 -  **Frameworks and Libraries**: Django, Tornado, Numpy, Pandas, Scrapy, SQLAlchemy, Fabric
 
+### Paaila Technology  
+- **Email**: info@paailatechnology.com 
+- **Location**: Jhamsikhel, Lalitpur
+- **Phone**: +977 015545577
+-  **Use**: Robotics and AI
+- **Website**: [pailatechnology.com](http://www.paailatechnology.com/)
+
 ### Zeftware Solutions Pvt. Ltd.  
 - **Email**: info@zeftware.com  
 - **Location**: Ram Laxman Marga, Biratnagar-01  
