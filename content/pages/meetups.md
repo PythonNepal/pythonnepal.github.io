@@ -9,9 +9,9 @@ Tags: Events
 - **Event Page:** [Link](https://www.facebook.com/events/317120332878051)
 - **Talks:**
 
-  1.  ** Writing Pythonic Code ** - Mahesh Regmi: [Slides](/static/Writing_Pythonic_Codes.pdf)
-  2.  ** Message Queue with Python 101 ** - Aju Tamang: [Slides](/static/Message_broker_with_Python_101_by_Aju_Tamang.pdf)
-  3.  ** Ensemble Methods in Machine Learning ** - Prajin Khadka: [Slides](#)
+  1.  ** Writing Pythonic Code ** - Mahesh Regmi: [Slides](/static/Writing_Pythonic_Codes.pdf) | [Video](https://youtu.be/H5BGnYFEjPM)
+  2.  ** Message Queue with Python 101 ** - Aju Tamang: [Slides](/static/Message_broker_with_Python_101_by_Aju_Tamang.pdf) | [Video]
+  3.  ** Ensemble Methods in Machine Learning ** - Prajin Khadka: [Slides](/static/Ensemble Methods.pdf) | [Video]
 
 ### Python Meetup #14
 
