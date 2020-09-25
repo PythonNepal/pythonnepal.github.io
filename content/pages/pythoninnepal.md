@@ -10,6 +10,12 @@ Date: 2017-09-09 00:00
 - **Use**: We use python mostly for android application.  
 -  **Frameworks and Libraries**: Requests, Pygame, Django
 
+### Fusemachines Inc.       
+- **Location**: Aarya Tara Business Tower, Kamaladi, Kathmandu
+- **Website**: [fusemachines.com/](https://fusemachines.com/)
+- **Phone**: +977-1-4168530, 4168744
+- **Use**: AI and automation
+
 ### Leapfrog Technology       
 - **Email**: kabirbaidhya@gmail.com  
 - **Location**: Kathmandu, Nepal  
