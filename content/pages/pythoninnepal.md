@@ -16,6 +16,12 @@ Date: 2017-09-09 00:00
 - **Phone**: +977-1-4168530, 4168744
 - **Use**: AI and automation
 
+### Insight Workshop       
+- **Location**: Kathmandu
+- **Website**: [insightworkshop.io](https://insightworkshop.io/)
+- **Phone**: +977 1-4437005
+- **Use**: Web Development
+
 ### Leapfrog Technology       
 - **Email**: kabirbaidhya@gmail.com  
 - **Location**: Kathmandu, Nepal  
