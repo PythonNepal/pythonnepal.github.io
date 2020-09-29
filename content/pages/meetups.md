@@ -11,7 +11,7 @@ Tags: Events
 
   1.  **Writing Pythonic Code** - Mahesh Regmi: [Slides](/static/Writing_Pythonic_Codes.pdf) | [Video](https://youtu.be/H5BGnYFEjPM)
   2.  **Message Queue with Python 101** - Aju Tamang: [Slides](/static/Message_broker_with_Python_101_by_Aju_Tamang.pdf) | [Video]
-  3.  **Ensemble Methods in Machine Learning** - Prajin Khadka: [Slides](/static/Ensemble Methods.pdf) | [Video]
+  3.  **Ensemble Methods in Machine Learning** - Prajin Khadka: [Slides](/static/Ensemble_Methods.pdf) | [Video]
 
 ### Python Meetup #14
 
