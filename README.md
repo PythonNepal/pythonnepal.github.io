@@ -3,7 +3,7 @@
 This is the repo for the Python User Group Nepal's website. The site is built using [Pelican](http://github.com/getpelican/pelican), a static site generator, powered by Python. The
 site's theme is based on [Pure Pelican Theme](https://github.com/PurePelicanTheme/pure-single).
 
-## Find us
+## Contact us
 
 * [Meetup.com](https://www.meetup.com/PythonNepal/)
 * [Facebook](https://www.facebook.com/groups/pythonnepal/)
@@ -70,7 +70,7 @@ Available commands:
 
 See [CONTRIBUTING.md](CONTRIBUTING.md)
 
-If you're a python developer from Nepal, you can add yourself to the [website](http://pythonnepal.org/pages/developers.html). To do that, 
+If you're a python developer then you can add yourself to the [website](http://pythonnepal.org/pages/developers.html). To do that, 
 - Fork the repo
 - Edit the file present at `content/pages/developers.md`. The format is [Markdown](https://guides.github.com/features/mastering-markdown/).
 - Send us a pull request
