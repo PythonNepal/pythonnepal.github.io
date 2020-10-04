@@ -10,6 +10,18 @@ Date: 2017-09-09 00:00
 - **Use**: We use python mostly for android application.  
 -  **Frameworks and Libraries**: Requests, Pygame, Django
 
+### Fusemachines Inc.       
+- **Location**: Aarya Tara Business Tower, Kamaladi, Kathmandu
+- **Website**: [fusemachines.com/](https://fusemachines.com/)
+- **Phone**: +977-1-4168530, 4168744
+- **Use**: AI and automation
+
+### Insight Workshop       
+- **Location**: Kathmandu
+- **Website**: [insightworkshop.io](https://insightworkshop.io/)
+- **Phone**: +977 1-4437005
+- **Use**: Web Development
+
 ### Leapfrog Technology       
 - **Email**: kabirbaidhya@gmail.com  
 - **Location**: Kathmandu, Nepal  
@@ -39,6 +51,13 @@ Date: 2017-09-09 00:00
 - **Location**: Lazimpat-2, Kathmandu  
 - **Website**: [ontreat.com](http://ontreat.com)
 -  **Frameworks and Libraries**: Django, Tornado, Numpy, Pandas, Scrapy, SQLAlchemy, Fabric
+
+### Paaila Technology  
+- **Email**: info@paailatechnology.com 
+- **Location**: Jhamsikhel, Lalitpur
+- **Phone**: +977 015545577
+-  **Use**: Robotics and AI
+- **Website**: [pailatechnology.com](http://www.paailatechnology.com/)
 
 ### Zeftware Solutions Pvt. Ltd.  
 - **Email**: info@zeftware.com  

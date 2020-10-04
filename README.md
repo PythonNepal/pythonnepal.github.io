@@ -1,9 +1,8 @@
 # Python Users Group Nepal Website [![Build Status](https://travis-ci.org/PythonNepal/pythonnepal.github.io.svg?branch=source)](https://travis-ci.org/PythonNepal/pythonnepal.github.io)
 
-This is the repo for the Python User Group Nepal's website. The site is built using [Pelican](http://github.com/getpelican/pelican), a static site generator, powered by Python. The
-site's theme is based on [Pure Pelican Theme](https://github.com/PurePelicanTheme/pure-single).
+This repository is for the Python User Group Nepal's website. The site is built-up using [Pelican](http://github.com/getpelican/pelican), a static site generator, powered by Python. The site's theme is based on [Pure Pelican Theme](https://github.com/PurePelicanTheme/pure-single).
 
-## Find us
+## Find us :
 
 * [Meetup.com](https://www.meetup.com/PythonNepal/)
 * [Facebook](https://www.facebook.com/groups/pythonnepal/)
@@ -16,7 +15,7 @@ site's theme is based on [Pure Pelican Theme](https://github.com/PurePelicanThem
 
   [Fork](https://github.com/PythonNepal/pythonnepal.github.io/fork) the repository to your account so that you have your copy of the website.
 
-* Clone repo
+* Clone repository
 
         $ git clone --recursive git@github.com:<your-username>/pythonnepal.github.io.git pynepal-website
 
@@ -42,7 +41,7 @@ This will clone the repository on to your system and clone the submodules inside
 
 ## Blog Workflow
 
-If you're interested in writing a blog post for the website, you need to:
+If you're interested in writing a blog post for the website, you need to follow the given steps below:
 
 - [Fork](https://github.com/PythonNepal/pythonnepal.github.io/fork) the repository
 - Write a blog post using Markdown in the `content` directory
@@ -70,7 +69,7 @@ Available commands:
 
 See [CONTRIBUTING.md](CONTRIBUTING.md)
 
-If you're a python developer from Nepal, you can add yourself to the [website](http://pythonnepal.org/pages/developers.html). To do that, 
-- Fork the repo
+If you're a python developer from Nepal, you can add yourself to [website](http://pythonnepal.org/pages/developers.html). To do that, 
+- Fork the reposiroty
 - Edit the file present at `content/pages/developers.md`. The format is [Markdown](https://guides.github.com/features/mastering-markdown/).
 - Send us a pull request

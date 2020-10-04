@@ -20,6 +20,9 @@ Maintain the list in alphabetical order
 - **Amit Garu**  
 [Email](mailto:amitgaru2@gmail.com) | [Github](https://github.com/arneec) | [Website](http://amitgaru.com.np) | [Linkedin](https://www.linkedin.com/in/xillar/)
 
+- **Anish Ghimire**  
+[Email](mailto:aghimire603@gmail.com) | [Github](https://github.com/anishghimire603) | [Website](https://ganish.com.np/) | [Linkedin](https://www.linkedin.com/in/anish-ghimire-4b872715a/)
+
 - **Ashish Acharya**  
 [Email](mailto:ashish.acharya14@gmail.com) | [Github](https://github.com/code-geek) | [Website](http://ashishacharya.com) | [Linkedin](https://www.linkedin.com/in/ashishdotpy/) 
 
@@ -45,7 +48,7 @@ Maintain the list in alphabetical order
 [Email](mailto:dhiraj.shah04@gmail.com) | [Github](https://github.com/dhirajshah04) | [Website](https://dhirajshah04.github.io) | [Linkedin](https://www.linkedin.com/in/dhiraj-shah-52aaa776)
 
 - **Hemanta Sharma**  
-[Email](mailto:sharmahemanta.212@gmail.com) | [Github](https://github.com/hemanta212) | [Website](https://hemanta212.github.io) | [Linkedin](https://www.linkedin.com/in/hemanta-sharma-636290137)
+[Email](mailto:sharmahemanta.212@gmail.com) | [Github](https://github.com/hemanta212) | [Website](https://hemanta212.github.io) | [Youtube](https://youtube.com/channel/UCSEjG-VVENmjMg1srEa_hLQ) | [Linkedin](https://www.linkedin.com/in/hemanta-sharma-636290137)
 
 - **Joshan Gurung**  
 [Email](mailto: joshangurung@gmail.com) | [Github](https://github.com/joshan)
@@ -86,6 +89,9 @@ Maintain the list in alphabetical order
 - **Rupak Karki**  
 [Email](mailto:rupakkarki123@gmail.com) | [Github](https://github.com/rupakkarki27) | [Linkedin](https://www.linkedin.com/in/rupakkarki) | [Website](https://www.rupakkarki.com.np) 
 
+- **Sachin Dahal**  
+[Email](mailto:sachindahal594@gmail.com) | [Github](https://github.com/sachin-dahal) | [Website](http://sachind.com.np/) | [Linkedin](https://www.linkedin.com/in/sachin-dahal)
+
 - **Sandip Bhagat**  
 [Email](mailto:sandipbgt@gmail.com) | [Github](https://github.com/sandipbgt) | [Website](http://sandipbgt.com) | [Linkedin](https://www.linkedin.com/in/sandipbgt/)
 
@@ -107,12 +113,17 @@ Maintain the list in alphabetical order
 - **Sijan Bhandari**  
 [Email](mailto:sijanonly@gmail.com) | [Github](https://github.com/sijanonly) | [Website](https://sijanb.com.np/) | [Linkedin](https://www.linkedin.com/in/sijanonly/)
 
+- **Sisir Ghimire Chettri**  
+[Email](mailto:samratsisir294@gmail.com) | [Github](https://github.com/tuxsisir) | [Website](https://tuxsisir.github.io)
+
+- **Soyuj Jung Basnet**  
+[Email](mailto:bsoyuj@gmail.com) | [Github](https://github.com/basnetsoyuj) | [Website](https://soyuj.com.np) | [Linkedin](https://www.linkedin.com/in/basnetsoyuj/)
+
 - **Subin Shrestha**  
 [Email](mailto:developer.shrestha@gmail.com) | [Github](https://github.com/sthasbin)
 
 - **Sudeep  Sharma**  
-[Linkedin](https://www.linkedin.com/in/sudeep-sharma-788152145/) | [Facebook](
-http://facebook.com/sudeep.sharma2052)
+[Linkedin](https://www.linkedin.com/in/sudeep-sharma-788152145/) | [Facebook](http://facebook.com/sudeep.sharma2052)
 
 - **Sudip Kafle**  
 [Email](mailto:soodip.kafle@gmail.com) | [Github](https://github.com/kaflesudip) | [Linkedin](https://www.linkedin.com/in/kaflesudip/)
