@@ -53,11 +53,11 @@ Maintain the list in alphabetical order
 - **Kiran Shahi**  
 [Email](mailto:kiran.shahi.np@gmail.com) | [Github](https://github.com/kiranshahi) | [Website](http://kirans.me) | [Linkedin](https://www.linkedin.com/in/itskirans/)
 
-- **Krishna Sunuwar**  
-[Github](https://github.com/s2krish) | [Linkedin](https://www.linkedin.com/in/s2krish/)
-
 - **Krishna Mohan Shah**  
 [Email](mailto:mailforkrishnashah@gmail.com) | [Github](https://github.com/krishnamshah) | [Linkedin](https://www.linkedin.com/in/krishnamohanshah/) | [Website](http://krishnamshah.com/) |  [Twitter](https://twitter.com/kkrsnaa) 
+
+- **Krishna Sunuwar**  
+[Github](https://github.com/s2krish) | [Linkedin](https://www.linkedin.com/in/s2krish/)
 
 - **Kishor Kumar Mahato**  
 [Email](mailto:cyberkishor@gmail.com) | [Github](https://github.com/cyberkishor) | [Linkedin](https://www.linkedin.com/in/kishrorkumar/) | [BitBucket](https://bitbucket.org/cyberkishor/)
