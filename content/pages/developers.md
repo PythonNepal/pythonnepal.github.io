@@ -89,6 +89,9 @@ Maintain the list in alphabetical order
 - **Rajat Shrestha**  
 [Email](mailto:rajat.shrestha@eydean.com) | [Github](https://github.com/shrestharajat) | [Website](http://shrestharajat.tech) | [Linkedin](https://www.linkedin.com/in/shrestharajat/)
 
+- **Rhitabrat Pokharel**  
+[Email](mailto:pokharelrhitabrat@gmail.com) | [Github](https://github.com/Rhitabrat) | [Website](https://rhitabrat.github.io) | [Linkedin](https://www.linkedin.com/in/rhitabrat/)
+
 - **Rupak Karki**  
 [Email](mailto:rupakkarki123@gmail.com) | [Github](https://github.com/rupakkarki27) | [Linkedin](https://www.linkedin.com/in/rupakkarki) | [Website](https://www.rupakkarki.com.np) 
 
