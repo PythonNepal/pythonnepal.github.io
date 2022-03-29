@@ -12,7 +12,7 @@ ipaddress==1.0.17
 Jinja2==2.7.3
 Markdown==2.5
 MarkupSafe==0.23
-paramiko==2.0.9
+paramiko==2.10.1
 pelican==3.5.0
 pyasn1==0.1.9
 pycparser==2.17
