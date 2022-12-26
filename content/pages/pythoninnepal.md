@@ -25,7 +25,7 @@ Date: 2017-09-09 00:00
 ### Leapfrog Technology       
 - **Email**: hello@lftechnology.com
 - **Location**: Charkhal, Dillibazar,Kathmandu, Nepal
-- **Website**: [https://www.lftechnology.com/](https://insightworkshop.io/](https://www.lftechnology.com/)
+- **Website**: [https://www.lftechnology.com/](https://www.lftechnology.com/)
 - **Use**: Web Backend, AI and ML,Automation/deployment/scripts.  
 -  **Frameworks and Libraries**: Django, Fabric, Flask, Pandas, FastAPI 
 
