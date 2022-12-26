@@ -23,10 +23,11 @@ Date: 2017-09-09 00:00
 - **Use**: Web Development
 
 ### Leapfrog Technology       
-- **Email**: kabirbaidhya@gmail.com  
-- **Location**: Kathmandu, Nepal  
-- **Use**: Used in few of the projects as the primary language In several other projects we use it for automation/deployment/scripts.  
--  **Frameworks and Libraries**: Django, Fabric 
+- **Email**: hello@lftechnology.com
+- **Location**: Charkhal, Dillibazar,Kathmandu, Nepal
+- **Website**: [https://www.lftechnology.com/](https://insightworkshop.io/](https://www.lftechnology.com/)
+- **Use**: Web Backend, AI and ML,Automation/deployment/scripts.  
+-  **Frameworks and Libraries**: Django, Fabric, Flask, Pandas, FastAPI 
 
 ### MicroLabs Pvt. Ltd.
 - **Email**: aimicrolabs@gmail.com
