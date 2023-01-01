@@ -116,6 +116,9 @@ Maintain the list in alphabetical order
 - **Shital Babu Luitel**  
 [Email](mailto:ctalluitel@gmail.com) | [Github](https://github.com/shitalluitel) | [Linkedin](https://www.linkedin.com/in/shital-luitel-38363713a/)
 
+- **Shiva Bahadur Basnet**
+[Email](mailto:shivabahadurbasnet313@gmail.com) | [Github](https://github.com/ShivaBsnt) | [Website](https://www.shivabahadurbasnet.com.np/) | [Linkedin](https://www.linkedin.com/in/shivabsnt/)
+
 - **Sijan Bhandari**  
 [Email](mailto:sijanonly@gmail.com) | [Github](https://github.com/sijanonly) | [Website](https://sijanb.com.np/) | [Linkedin](https://www.linkedin.com/in/sijanonly/)
 
