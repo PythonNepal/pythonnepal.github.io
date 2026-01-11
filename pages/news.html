@@ -1,0 +1,746 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Latest news, notices, and upcoming Python conferences around the world."
+    />
+    <title>News & Notices | Python Users Group Nepal</title>
+    <link rel="icon" href="../images/logo/python-ugn-condensed.png" />
+    <link rel="stylesheet" href="../css/style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+    />
+    <style>
+      .conference-card {
+        background: var(--card-bg);
+        border-radius: var(--radius-lg);
+        padding: var(--space-lg);
+        margin-bottom: var(--space-lg);
+        border: 1px solid var(--border-color);
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+      }
+      .conference-card:hover {
+        transform: translateY(-4px);
+        box-shadow: var(--shadow-lg);
+      }
+      .conference-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+        margin-bottom: var(--space-md);
+        flex-wrap: wrap;
+        gap: var(--space-sm);
+      }
+      .conference-title {
+        font-size: 1.5rem;
+        color: var(--text-primary);
+        margin: 0;
+      }
+      .conference-badge {
+        padding: 0.25rem 0.75rem;
+        border-radius: var(--radius-full);
+        font-size: 0.75rem;
+        font-weight: 600;
+        text-transform: uppercase;
+      }
+      .badge-upcoming {
+        background: var(--success-light);
+        color: var(--success);
+      }
+      .badge-cfp {
+        background: var(--warning-light);
+        color: var(--warning);
+      }
+      .badge-past {
+        background: var(--text-muted);
+        color: white;
+      }
+      .conference-meta {
+        display: flex;
+        flex-wrap: wrap;
+        gap: var(--space-lg);
+        margin-bottom: var(--space-md);
+        color: var(--text-secondary);
+      }
+      .conference-meta span {
+        display: flex;
+        align-items: center;
+        gap: var(--space-xs);
+      }
+      .conference-description {
+        color: var(--text-secondary);
+        margin-bottom: var(--space-md);
+        line-height: 1.7;
+      }
+      .conference-link {
+        display: inline-flex;
+        align-items: center;
+        gap: var(--space-xs);
+        color: var(--primary);
+        font-weight: 500;
+        text-decoration: none;
+      }
+      .conference-link:hover {
+        text-decoration: underline;
+      }
+      .news-item {
+        background: var(--card-bg);
+        border-radius: var(--radius-lg);
+        padding: var(--space-lg);
+        margin-bottom: var(--space-md);
+        border-left: 4px solid var(--primary);
+      }
+      .news-item h3 {
+        margin: 0 0 var(--space-sm) 0;
+        color: var(--text-primary);
+      }
+      .news-item p {
+        margin: 0;
+        color: var(--text-secondary);
+      }
+      .news-date {
+        font-size: 0.875rem;
+        color: var(--text-muted);
+        margin-bottom: var(--space-xs);
+      }
+      .section-tabs {
+        display: flex;
+        gap: var(--space-sm);
+        margin-bottom: var(--space-xl);
+        flex-wrap: wrap;
+      }
+      .section-tab {
+        padding: 0.5rem 1.25rem;
+        border-radius: var(--radius-full);
+        border: 2px solid var(--border-color);
+        background: transparent;
+        color: var(--text-secondary);
+        cursor: pointer;
+        font-weight: 500;
+        transition: all 0.3s ease;
+      }
+      .section-tab:hover,
+      .section-tab.active {
+        background: var(--primary);
+        border-color: var(--primary);
+        color: white;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- Navigation -->
+    <nav class="navbar" id="navbar">
+      <div class="nav-container">
+        <a href="../index.html" class="nav-logo">
+          <img
+            src="../images/logo/python-ugn-white.png"
+            alt="Python Users Group Nepal Logo"
+            class="logo-img"
+          />
+          <span class="logo-text">Python Users Group Nepal</span>
+        </a>
+        <button
+          class="nav-toggle"
+          id="nav-toggle"
+          aria-label="Toggle navigation"
+        >
+          <span class="hamburger"></span>
+        </button>
+        <ul class="nav-menu" id="nav-menu">
+          <li class="nav-item">
+            <a href="../index.html" class="nav-link">Home</a>
+          </li>
+          <li class="nav-item">
+            <a href="meetups.html" class="nav-link">Meetups</a>
+          </li>
+          <li class="nav-item">
+            <a href="developers.html" class="nav-link">Developers</a>
+          </li>
+          <li class="nav-item">
+            <a href="companies.html" class="nav-link">Companies</a>
+          </li>
+          <li class="nav-item">
+            <a href="resources.html" class="nav-link">Resources</a>
+          </li>
+          <li class="nav-item">
+            <a href="videos.html" class="nav-link">Videos</a>
+          </li>
+          <li class="nav-item">
+            <a href="news.html" class="nav-link active">News & Notices</a>
+          </li>
+        </ul>
+        <div class="nav-actions">
+          <button
+            class="theme-toggle"
+            id="theme-toggle"
+            aria-label="Toggle dark mode"
+          >
+            <i class="fas fa-moon"></i>
+          </button>
+          <a
+            href="https://www.meetup.com/PythonNepal/"
+            target="_blank"
+            class="btn btn-primary btn-sm"
+            >Join Us</a
+          >
+        </div>
+      </div>
+    </nav>
+
+    <!-- Page Header -->
+    <header class="page-header">
+      <div class="container">
+        <h1><i class="fas fa-newspaper"></i> News & Notices</h1>
+        <p>
+          Stay updated with Python conferences, community news, and
+          announcements
+        </p>
+      </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="page-content">
+      <div class="container">
+        <!-- Upcoming Conferences Section -->
+        <section class="resources-section">
+          <h2>
+            <i class="fas fa-calendar-alt"></i> Upcoming Python Conferences 2026
+          </h2>
+          <p style="color: var(--text-muted); margin-bottom: var(--space-lg)">
+            Mark your calendars for these exciting Python events around the
+            world
+          </p>
+
+          <!-- PyCon US 2026 -->
+          <div class="conference-card">
+            <div class="conference-header">
+              <h3 class="conference-title">🇺🇸 PyCon US 2026</h3>
+              <span class="conference-badge badge-upcoming">Upcoming</span>
+            </div>
+            <div class="conference-meta">
+              <span><i class="fas fa-calendar"></i> May 14 - 22, 2026</span>
+              <span
+                ><i class="fas fa-map-marker-alt"></i> Pittsburgh, Pennsylvania,
+                USA</span
+              >
+            </div>
+            <p class="conference-description">
+              The largest annual gathering for the Python community in North
+              America. PyCon US features tutorials, talks, sprints, and the
+              famous hallway track. A must-attend event for Python enthusiasts
+              worldwide with speakers from all corners of the globe.
+            </p>
+            <a
+              href="https://us.pycon.org/"
+              target="_blank"
+              class="conference-link"
+            >
+              <i class="fas fa-external-link-alt"></i> Visit Website
+            </a>
+          </div>
+
+          <!-- EuroPython 2026 -->
+          <div class="conference-card">
+            <div class="conference-header">
+              <h3 class="conference-title">🇪🇺 EuroPython 2026</h3>
+              <span class="conference-badge badge-upcoming">Upcoming</span>
+            </div>
+            <div class="conference-meta">
+              <span><i class="fas fa-calendar"></i> July 14 - 20, 2026</span>
+              <span><i class="fas fa-map-marker-alt"></i> Dublin, Ireland</span>
+            </div>
+            <p class="conference-description">
+              Europe's largest Python conference brings together developers,
+              data scientists, and enthusiasts from across the continent and
+              beyond. Features workshops, talks, sprints, and excellent
+              networking opportunities in a vibrant atmosphere.
+            </p>
+            <a
+              href="https://europython.eu/"
+              target="_blank"
+              class="conference-link"
+            >
+              <i class="fas fa-external-link-alt"></i> Visit Website
+            </a>
+          </div>
+
+          <!-- PyCon DE & PyData Berlin 2026 -->
+          <div class="conference-card">
+            <div class="conference-header">
+              <h3 class="conference-title">🇩🇪 PyCon DE & PyData Berlin 2026</h3>
+              <span class="conference-badge badge-cfp">CFP Open</span>
+            </div>
+            <div class="conference-meta">
+              <span><i class="fas fa-calendar"></i> April 23 - 25, 2026</span>
+              <span><i class="fas fa-map-marker-alt"></i> Berlin, Germany</span>
+            </div>
+            <p class="conference-description">
+              A joint conference combining Python development and data science
+              tracks. Perfect for those interested in both software engineering
+              and data-driven applications. Features excellent talks on Django,
+              FastAPI, machine learning, and scientific computing.
+            </p>
+            <a href="https://pycon.de/" target="_blank" class="conference-link">
+              <i class="fas fa-external-link-alt"></i> Visit Website
+            </a>
+          </div>
+
+          <!-- DjangoCon Europe 2026 -->
+          <div class="conference-card">
+            <div class="conference-header">
+              <h3 class="conference-title">🇪🇺 DjangoCon Europe 2026</h3>
+              <span class="conference-badge badge-upcoming">Upcoming</span>
+            </div>
+            <div class="conference-meta">
+              <span><i class="fas fa-calendar"></i> June 4 - 8, 2026</span>
+              <span
+                ><i class="fas fa-map-marker-alt"></i> Edinburgh, Scotland</span
+              >
+            </div>
+            <p class="conference-description">
+              The premier Django conference in Europe, bringing together Django
+              developers for talks, tutorials, and sprints. Learn about the
+              latest Django features, best practices, and connect with the
+              Django community.
+            </p>
+            <a
+              href="https://djangocon.eu/"
+              target="_blank"
+              class="conference-link"
+            >
+              <i class="fas fa-external-link-alt"></i> Visit Website
+            </a>
+          </div>
+
+          <!-- DjangoCon US 2026 -->
+          <div class="conference-card">
+            <div class="conference-header">
+              <h3 class="conference-title">🇺🇸 DjangoCon US 2026</h3>
+              <span class="conference-badge badge-upcoming">Upcoming</span>
+            </div>
+            <div class="conference-meta">
+              <span
+                ><i class="fas fa-calendar"></i> September 21 - 25, 2026</span
+              >
+              <span
+                ><i class="fas fa-map-marker-alt"></i> Durham, North Carolina,
+                USA</span
+              >
+            </div>
+            <p class="conference-description">
+              The largest Django conference in North America featuring talks,
+              tutorials, and sprints. A welcoming community event focused on
+              Django web framework, its ecosystem, and the people who use it.
+            </p>
+            <a
+              href="https://djangocon.us/"
+              target="_blank"
+              class="conference-link"
+            >
+              <i class="fas fa-external-link-alt"></i> Visit Website
+            </a>
+          </div>
+
+          <!-- PyData Global 2026 -->
+          <div class="conference-card">
+            <div class="conference-header">
+              <h3 class="conference-title">🌍 PyData Global 2026</h3>
+              <span class="conference-badge badge-upcoming">Upcoming</span>
+            </div>
+            <div class="conference-meta">
+              <span><i class="fas fa-calendar"></i> December 3 - 5, 2026</span>
+              <span
+                ><i class="fas fa-map-marker-alt"></i> Virtual / Online</span
+              >
+            </div>
+            <p class="conference-description">
+              A global online conference focused on data science, machine
+              learning, and AI with Python. Features talks from data
+              professionals worldwide, covering pandas, NumPy, scikit-learn,
+              PyTorch, and more. Accessible from anywhere!
+            </p>
+            <a
+              href="https://pydata.org/global/"
+              target="_blank"
+              class="conference-link"
+            >
+              <i class="fas fa-external-link-alt"></i> Visit Website
+            </a>
+          </div>
+
+          <!-- SciPy 2026 -->
+          <div class="conference-card">
+            <div class="conference-header">
+              <h3 class="conference-title">🇺🇸 SciPy 2026</h3>
+              <span class="conference-badge badge-upcoming">Upcoming</span>
+            </div>
+            <div class="conference-meta">
+              <span><i class="fas fa-calendar"></i> July 7 - 13, 2026</span>
+              <span
+                ><i class="fas fa-map-marker-alt"></i> Tacoma, Washington,
+                USA</span
+              >
+            </div>
+            <p class="conference-description">
+              The annual Scientific Computing with Python conference. Focuses on
+              scientific computing, data visualization, and computational
+              research. Great for researchers, scientists, and engineers using
+              Python for scientific applications.
+            </p>
+            <a
+              href="https://www.scipy.org/"
+              target="_blank"
+              class="conference-link"
+            >
+              <i class="fas fa-external-link-alt"></i> Visit Website
+            </a>
+          </div>
+        </section>
+
+        <!-- Regional Conferences -->
+        <section class="resources-section">
+          <h2><i class="fas fa-globe-asia"></i> Regional Python Conferences</h2>
+          <p style="color: var(--text-muted); margin-bottom: var(--space-lg)">
+            Python conferences in the Asia-Pacific region
+          </p>
+
+          <!-- PyCon APAC 2026 -->
+          <div class="conference-card">
+            <div class="conference-header">
+              <h3 class="conference-title">🌏 PyCon APAC 2026</h3>
+              <span class="conference-badge badge-upcoming">Upcoming</span>
+            </div>
+            <div class="conference-meta">
+              <span
+                ><i class="fas fa-calendar"></i> October 2026 (Dates TBA)</span
+              >
+              <span
+                ><i class="fas fa-map-marker-alt"></i> Asia-Pacific Region</span
+              >
+            </div>
+            <p class="conference-description">
+              The Asia-Pacific Python Conference rotates between countries in
+              the region. A great opportunity for developers from Nepal to
+              attend a major Python conference closer to home. Watch for
+              announcements on location and dates.
+            </p>
+            <a
+              href="https://pycon.asia/"
+              target="_blank"
+              class="conference-link"
+            >
+              <i class="fas fa-external-link-alt"></i> Visit Website
+            </a>
+          </div>
+
+          <!-- PyCon India 2026 -->
+          <div class="conference-card">
+            <div class="conference-header">
+              <h3 class="conference-title">🇮🇳 PyCon India 2026</h3>
+              <span class="conference-badge badge-upcoming">Upcoming</span>
+            </div>
+            <div class="conference-meta">
+              <span
+                ><i class="fas fa-calendar"></i> September 2026 (Dates
+                TBA)</span
+              >
+              <span><i class="fas fa-map-marker-alt"></i> India</span>
+            </div>
+            <p class="conference-description">
+              The largest Python conference in South Asia, PyCon India brings
+              together thousands of Python developers. Being our neighboring
+              country, this is a great opportunity for Nepali developers to
+              participate and present their work.
+            </p>
+            <a
+              href="https://in.pycon.org/"
+              target="_blank"
+              class="conference-link"
+            >
+              <i class="fas fa-external-link-alt"></i> Visit Website
+            </a>
+          </div>
+        </section>
+
+        <!-- Community News Section -->
+        <section class="resources-section">
+          <h2><i class="fas fa-bullhorn"></i> Community News & Notices</h2>
+          <p style="color: var(--text-muted); margin-bottom: var(--space-lg)">
+            Latest updates from Python Users Group Nepal
+          </p>
+
+          <div class="news-item">
+            <div class="news-date">January 2026</div>
+            <h3>🎉 Website Revamp Complete!</h3>
+            <p>
+              We're excited to announce the launch of our redesigned website!
+              The new site features a modern design, dark mode support, and
+              improved navigation. Thank you to all the contributors who made
+              this possible.
+            </p>
+          </div>
+
+          <div class="news-item">
+            <div class="news-date">January 2026</div>
+            <h3>📢 Call for Speakers - Monthly Meetups</h3>
+            <p>
+              Want to share your Python knowledge with the community? We're
+              always looking for speakers for our monthly meetups. Topics can
+              range from beginner tutorials to advanced concepts.
+              <a href="https://www.meetup.com/PythonNepal/" target="_blank"
+                >Contact us on Meetup</a
+              >
+              if you're interested!
+            </p>
+          </div>
+
+          <div class="news-item">
+            <div class="news-date">December 2025</div>
+            <h3>🐍 Python 3.13 Released</h3>
+            <p>
+              Python 3.13 was released with exciting new features including
+              improved error messages, a new interactive interpreter (REPL), and
+              experimental free-threaded mode.
+              <a
+                href="https://docs.python.org/3/whatsnew/3.13.html"
+                target="_blank"
+                >Read the changelog</a
+              >.
+            </p>
+          </div>
+
+          <div class="news-item">
+            <div class="news-date">Ongoing</div>
+            <h3>💼 Add Your Company to Our Directory</h3>
+            <p>
+              Are you using Python at your company in Nepal? Get listed on our
+              <a href="companies.html">Companies page</a>! Submit a PR to our
+              <a
+                href="https://github.com/PythonNepal/pythonnepal.github.io"
+                target="_blank"
+                >GitHub repository</a
+              >.
+            </p>
+          </div>
+
+          <div class="news-item">
+            <div class="news-date">Ongoing</div>
+            <h3>👩‍💻 Join Our Developer Directory</h3>
+            <p>
+              Python developers from Nepal can add themselves to our
+              <a href="developers.html">Developers page</a>. Fork our repo, add
+              your details, and submit a pull request!
+            </p>
+          </div>
+        </section>
+
+        <!-- Conference Resources -->
+        <section class="resources-section">
+          <h2><i class="fas fa-link"></i> Useful Conference Resources</h2>
+          <p style="color: var(--text-muted); margin-bottom: var(--space-lg)">
+            Stay updated with Python events worldwide
+          </p>
+
+          <div class="resources-list">
+            <div class="resource-item">
+              <i class="fab fa-python"></i>
+              <a href="https://www.python.org/events/" target="_blank">
+                Python.org Events Calendar
+              </a>
+              <span
+                style="
+                  margin-left: auto;
+                  color: var(--text-muted);
+                  font-size: 0.875rem;
+                "
+                >Official</span
+              >
+            </div>
+            <div class="resource-item">
+              <i class="fas fa-calendar-check"></i>
+              <a href="https://pycon.org/" target="_blank">
+                PyCon.org - Find PyCons Worldwide
+              </a>
+              <span
+                style="
+                  margin-left: auto;
+                  color: var(--text-muted);
+                  font-size: 0.875rem;
+                "
+                >Directory</span
+              >
+            </div>
+            <div class="resource-item">
+              <i class="fas fa-chart-bar"></i>
+              <a href="https://pydata.org/events/" target="_blank">
+                PyData Events
+              </a>
+              <span
+                style="
+                  margin-left: auto;
+                  color: var(--text-muted);
+                  font-size: 0.875rem;
+                "
+                >Data Science</span
+              >
+            </div>
+            <div class="resource-item">
+              <i class="fab fa-youtube"></i>
+              <a href="https://www.youtube.com/@PyConUS" target="_blank">
+                PyCon US YouTube Channel
+              </a>
+              <span
+                style="
+                  margin-left: auto;
+                  color: var(--text-muted);
+                  font-size: 0.875rem;
+                "
+                >Past Talks</span
+              >
+            </div>
+            <div class="resource-item">
+              <i class="fab fa-youtube"></i>
+              <a
+                href="https://www.youtube.com/@EuroPythonConference"
+                target="_blank"
+              >
+                EuroPython YouTube Channel
+              </a>
+              <span
+                style="
+                  margin-left: auto;
+                  color: var(--text-muted);
+                  font-size: 0.875rem;
+                "
+                >Past Talks</span
+              >
+            </div>
+          </div>
+        </section>
+      </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+      <div class="container">
+        <div class="footer-grid">
+          <div class="footer-brand">
+            <a href="../index.html" class="footer-logo">
+              <img
+                src="../images/logo/python-ugn-white.png"
+                alt="Python Users Group Nepal Logo"
+              />
+              <span>Python Users Group Nepal</span>
+            </a>
+            <p>
+              A community of Python developers in Nepal, promoting knowledge
+              sharing and collaboration since 2013.
+            </p>
+            <div class="footer-social">
+              <a
+                href="https://www.facebook.com/groups/pythonnepal/"
+                target="_blank"
+                aria-label="Facebook"
+                ><i class="fab fa-facebook-f"></i
+              ></a>
+              <a
+                href="https://github.com/pythonnepal/"
+                target="_blank"
+                aria-label="GitHub"
+                ><i class="fab fa-github"></i
+              ></a>
+              <a
+                href="https://www.youtube.com/channel/UC7EWmhPyAIHDsXY93C34eXA"
+                target="_blank"
+                aria-label="YouTube"
+                ><i class="fab fa-youtube"></i
+              ></a>
+              <a
+                href="https://www.meetup.com/PythonNepal/"
+                target="_blank"
+                aria-label="Meetup"
+                ><i class="fab fa-meetup"></i
+              ></a>
+            </div>
+          </div>
+          <div class="footer-links">
+            <h4>Quick Links</h4>
+            <ul>
+              <li><a href="meetups.html">Meetups</a></li>
+              <li><a href="developers.html">Developers</a></li>
+              <li><a href="companies.html">Companies</a></li>
+              <li><a href="resources.html">Resources</a></li>
+              <li><a href="videos.html">Videos</a></li>
+              <li><a href="news.html">News & Notices</a></li>
+            </ul>
+          </div>
+          <div class="footer-links">
+            <h4>Community</h4>
+            <ul>
+              <li>
+                <a href="https://www.meetup.com/PythonNepal/" target="_blank"
+                  >Join Meetup</a
+                >
+              </li>
+              <li>
+                <a
+                  href="https://www.facebook.com/groups/pythonnepal/"
+                  target="_blank"
+                  >Facebook Group</a
+                >
+              </li>
+              <li>
+                <a href="https://github.com/pythonnepal/" target="_blank"
+                  >GitHub</a
+                >
+              </li>
+              <li>
+                <a
+                  href="https://www.youtube.com/channel/UC7EWmhPyAIHDsXY93C34eXA"
+                  target="_blank"
+                  >YouTube</a
+                >
+              </li>
+            </ul>
+          </div>
+          <div class="footer-links">
+            <h4>Contribute</h4>
+            <ul>
+              <li>
+                <a
+                  href="https://github.com/PythonNepal/pythonnepal.github.io"
+                  target="_blank"
+                  >Website Repo</a
+                >
+              </li>
+              <li>
+                <a
+                  href="https://github.com/PythonNepal/pythonnepal.github.io/blob/main/CONTRIBUTING.md"
+                  target="_blank"
+                  >Contributing Guide</a
+                >
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="footer-bottom">
+          <p>
+            &copy; 2013 - <span id="current-year"></span> Python Users Group
+            Nepal. Made with
+            <i class="fas fa-heart" style="color: #e74c3c"></i> in Nepal 🇳🇵
+          </p>
+        </div>
+      </div>
+    </footer>
+
+    <button class="back-to-top" id="back-to-top" aria-label="Back to top">
+      <i class="fas fa-chevron-up"></i>
+    </button>
+
+    <script src="../js/main.js"></script>
+  </body>
+</html>
