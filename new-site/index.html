@@ -1,0 +1,611 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Python Users Group Nepal - A vibrant community of Python developers in Nepal promoting knowledge sharing, meetups, and collaboration."
+    />
+    <meta
+      name="keywords"
+      content="Python, Nepal, Python Nepal, PyNepal, Python Developers, Programming, Meetup, Django, Flask, Machine Learning"
+    />
+    <meta name="author" content="Python Users Group Nepal" />
+    <meta property="og:title" content="Python Users Group Nepal" />
+    <meta
+      property="og:description"
+      content="Join the largest Python community in Nepal. Learn, share, and grow together."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://pythonnepal.org" />
+    <title>Python Users Group Nepal | PyNepal</title>
+    <link rel="icon" href="images/logo/python-ugn-condensed.png" />
+    <link rel="stylesheet" href="css/style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <!-- Navigation -->
+    <nav class="navbar" id="navbar">
+      <div class="nav-container">
+        <a href="index.html" class="nav-logo">
+          <img
+            src="images/logo/python-ugn-white.png"
+            alt="Python Users Group Nepal Logo"
+            class="logo-img"
+          />
+          <span class="logo-text">Python Users Group Nepal</span>
+        </a>
+        <button
+          class="nav-toggle"
+          id="nav-toggle"
+          aria-label="Toggle navigation"
+        >
+          <span class="hamburger"></span>
+        </button>
+        <ul class="nav-menu" id="nav-menu">
+          <li class="nav-item">
+            <a href="index.html" class="nav-link active">Home</a>
+          </li>
+          <li class="nav-item">
+            <a href="pages/meetups.html" class="nav-link">Meetups</a>
+          </li>
+          <li class="nav-item">
+            <a href="pages/developers.html" class="nav-link">Developers</a>
+          </li>
+          <li class="nav-item">
+            <a href="pages/companies.html" class="nav-link">Companies</a>
+          </li>
+          <li class="nav-item">
+            <a href="pages/resources.html" class="nav-link">Resources</a>
+          </li>
+          <li class="nav-item">
+            <a href="pages/videos.html" class="nav-link">Videos</a>
+          </li>
+          <li class="nav-item">
+            <a href="pages/news.html" class="nav-link">News & Notices</a>
+          </li>
+        </ul>
+        <div class="nav-actions">
+          <button
+            class="theme-toggle"
+            id="theme-toggle"
+            aria-label="Toggle dark mode"
+          >
+            <i class="fas fa-moon"></i>
+          </button>
+          <a
+            href="https://www.meetup.com/PythonNepal/"
+            target="_blank"
+            class="btn btn-primary btn-sm"
+            >Join Us</a
+          >
+        </div>
+      </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="hero">
+      <div class="hero-bg"></div>
+      <div class="hero-content">
+        <span class="hero-badge">
+          <i class="fab fa-python"></i>
+          Welcome to Python Nepal 🇳🇵
+        </span>
+        <h1 class="hero-title">
+          Nepal's Largest <span class="gradient-text">Python</span> Community
+        </h1>
+        <p class="hero-subtitle">
+          Join thousands of Python enthusiasts in Nepal. Learn, share knowledge,
+          attend meetups, and grow your skills with our vibrant developer
+          community.
+        </p>
+        <div class="hero-actions">
+          <a
+            href="https://www.meetup.com/PythonNepal/"
+            target="_blank"
+            class="btn btn-primary btn-lg"
+          >
+            <i class="fab fa-meetup"></i>
+            Join Meetup
+          </a>
+          <a href="pages/meetups.html" class="btn btn-outline btn-lg">
+            <i class="fas fa-calendar-alt"></i>
+            View Past Events
+          </a>
+        </div>
+        <div class="hero-stats">
+          <div class="stat-item">
+            <span class="stat-number">3000+</span>
+            <span class="stat-label">Members</span>
+          </div>
+          <div class="stat-item">
+            <span class="stat-number">14+</span>
+            <span class="stat-label">Meetups</span>
+          </div>
+          <div class="stat-item">
+            <span class="stat-number">50+</span>
+            <span class="stat-label">Talks</span>
+          </div>
+          <div class="stat-item">
+            <span class="stat-number">10+</span>
+            <span class="stat-label">Years</span>
+          </div>
+        </div>
+      </div>
+      <div class="hero-visual">
+        <div class="code-window">
+          <div class="code-header">
+            <span class="dot red"></span>
+            <span class="dot yellow"></span>
+            <span class="dot green"></span>
+            <span class="code-title">welcome.py</span>
+          </div>
+          <pre
+            class="code-content"
+          ><code><span class="keyword">class</span> <span class="class-name">PythonNepal</span>:
+    <span class="keyword">def</span> <span class="function">__init__</span>(<span class="param">self</span>):
+        <span class="param">self</span>.name = <span class="string">"Python Nepal"</span>
+        <span class="param">self</span>.since = <span class="string">2013</span>
+        <span class="param">self</span>.members = <span class="string">3000</span>+
+        
+    <span class="keyword">def</span> <span class="function">welcome</span>(<span class="param">self</span>):
+        <span class="builtin">print</span>(<span class="string">"नमस्ते! 🙏"</span>)
+        <span class="builtin">print</span>(<span class="string">"Welcome to PyNepal!"</span>)
+        
+community = <span class="class-name">PythonNepal</span>()
+community.<span class="function">welcome</span>()</code></pre>
+        </div>
+      </div>
+    </section>
+
+    <!-- Announcement Banner -->
+    <section class="announcement">
+      <div class="container">
+        <div class="announcement-content">
+          <div class="announcement-icon">
+            <i class="fas fa-bullhorn"></i>
+          </div>
+          <p class="announcement-text">
+            <strong>Stay Connected!</strong> Join our Facebook group and Meetup
+            page to get notified about upcoming events and discussions.
+          </p>
+          <a
+            href="https://www.facebook.com/groups/pythonnepal/"
+            target="_blank"
+            class="btn btn-white btn-sm"
+          >
+            Join Facebook Group
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Features Section -->
+    <section class="features section" id="features">
+      <div class="container">
+        <div class="section-header">
+          <span class="section-badge">What We Do</span>
+          <h2 class="section-title">Building Nepal's Python Ecosystem</h2>
+          <p class="section-subtitle">
+            We bring together Python enthusiasts to learn, share, and grow
+            together
+          </p>
+        </div>
+        <div class="features-grid">
+          <div class="feature-card">
+            <div class="feature-icon">
+              <i class="fas fa-users"></i>
+            </div>
+            <h3>Community Meetups</h3>
+            <p>
+              Regular meetups featuring talks, workshops, and networking
+              opportunities for Python developers of all skill levels.
+            </p>
+          </div>
+          <div class="feature-card">
+            <div class="feature-icon">
+              <i class="fas fa-chalkboard-teacher"></i>
+            </div>
+            <h3>Knowledge Sharing</h3>
+            <p>
+              Learn from experienced developers through technical talks covering
+              web development, data science, machine learning, and more.
+            </p>
+          </div>
+          <div class="feature-card">
+            <div class="feature-icon">
+              <i class="fas fa-laptop-code"></i>
+            </div>
+            <h3>Workshops & Training</h3>
+            <p>
+              Hands-on workshops to help you build practical skills with Django,
+              Flask, FastAPI, and other Python frameworks.
+            </p>
+          </div>
+          <div class="feature-card">
+            <div class="feature-icon">
+              <i class="fas fa-handshake"></i>
+            </div>
+            <h3>Networking</h3>
+            <p>
+              Connect with fellow developers, find mentors, explore job
+              opportunities, and collaborate on exciting projects.
+            </p>
+          </div>
+          <div class="feature-card">
+            <div class="feature-icon">
+              <i class="fas fa-book-open"></i>
+            </div>
+            <h3>Learning Resources</h3>
+            <p>
+              Access curated tutorials, documentation, and guides to accelerate
+              your Python learning journey.
+            </p>
+          </div>
+          <div class="feature-card">
+            <div class="feature-icon">
+              <i class="fas fa-code-branch"></i>
+            </div>
+            <h3>Open Source</h3>
+            <p>
+              Contribute to open source projects, share your work, and learn
+              from the community's collective experience.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Recent Meetups Section -->
+    <section class="recent-meetups section" id="meetups">
+      <div class="container">
+        <div class="section-header">
+          <span class="section-badge">Events</span>
+          <h2 class="section-title">Recent Meetups</h2>
+          <p class="section-subtitle">
+            Highlights from our community gatherings
+          </p>
+        </div>
+        <div class="meetups-grid">
+          <article class="meetup-card">
+            <span class="meetup-number">#14</span>
+            <div class="meetup-content">
+              <h3>Python Meetup #14</h3>
+              <div class="meetup-meta">
+                <span><i class="fas fa-calendar"></i> Sep 14, 2019</span>
+                <span
+                  ><i class="fas fa-map-marker-alt"></i> Leapfrog
+                  Technology</span
+                >
+              </div>
+              <div class="meetup-talks">
+                <span class="talk-badge">Concurrency in Python</span>
+                <span class="talk-badge">ML Projects</span>
+                <span class="talk-badge">Computer Vision</span>
+                <span class="talk-badge">PyData</span>
+              </div>
+            </div>
+            <a
+              href="pages/meetups.html#meetup-14"
+              class="meetup-link"
+              aria-label="View meetup details"
+            >
+              <i class="fas fa-arrow-right"></i>
+            </a>
+          </article>
+          <article class="meetup-card">
+            <span class="meetup-number">#13</span>
+            <div class="meetup-content">
+              <h3>Python Meetup #13</h3>
+              <div class="meetup-meta">
+                <span><i class="fas fa-calendar"></i> Nov 18, 2017</span>
+                <span
+                  ><i class="fas fa-map-marker-alt"></i> Microsoft Innovation
+                  Center</span
+                >
+              </div>
+              <div class="meetup-talks">
+                <span class="talk-badge">Functional Programming</span>
+                <span class="talk-badge">Decorators</span>
+                <span class="talk-badge">Load Testing</span>
+                <span class="talk-badge">PyTorch</span>
+              </div>
+            </div>
+            <a
+              href="pages/meetups.html#meetup-13"
+              class="meetup-link"
+              aria-label="View meetup details"
+            >
+              <i class="fas fa-arrow-right"></i>
+            </a>
+          </article>
+          <article class="meetup-card">
+            <span class="meetup-number">#12</span>
+            <div class="meetup-content">
+              <h3>Python Meetup #12</h3>
+              <div class="meetup-meta">
+                <span><i class="fas fa-calendar"></i> Aug 19, 2017</span>
+                <span
+                  ><i class="fas fa-map-marker-alt"></i> FuseMachines
+                  Nepal</span
+                >
+              </div>
+              <div class="meetup-talks">
+                <span class="talk-badge">Microbit</span>
+                <span class="talk-badge">REST API Testing</span>
+                <span class="talk-badge">Clean Code</span>
+              </div>
+            </div>
+            <a
+              href="pages/meetups.html#meetup-12"
+              class="meetup-link"
+              aria-label="View meetup details"
+            >
+              <i class="fas fa-arrow-right"></i>
+            </a>
+          </article>
+        </div>
+        <div class="section-action">
+          <a href="pages/meetups.html" class="btn btn-primary btn-lg">
+            <i class="fas fa-history"></i>
+            View All Meetups
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Join Us Section -->
+    <section class="section" id="join">
+      <div class="container">
+        <div class="section-header">
+          <span class="section-badge">Connect</span>
+          <h2 class="section-title">Join Our Community</h2>
+          <p class="section-subtitle">
+            Multiple ways to connect and stay updated
+          </p>
+        </div>
+        <div class="platforms-grid">
+          <a
+            href="https://www.facebook.com/groups/pythonnepal/"
+            target="_blank"
+            class="platform-card facebook"
+          >
+            <div class="platform-icon">
+              <i class="fab fa-facebook-f"></i>
+            </div>
+            <h3>Facebook Group</h3>
+            <p>Join discussions, ask questions, and share resources</p>
+            <span class="platform-action"
+              >Join Group <i class="fas fa-arrow-right"></i
+            ></span>
+          </a>
+          <a
+            href="https://www.meetup.com/PythonNepal/"
+            target="_blank"
+            class="platform-card meetup"
+          >
+            <div class="platform-icon">
+              <i class="fab fa-meetup"></i>
+            </div>
+            <h3>Meetup</h3>
+            <p>RSVP for events and get notified about upcoming meetups</p>
+            <span class="platform-action"
+              >Join Meetup <i class="fas fa-arrow-right"></i
+            ></span>
+          </a>
+          <a
+            href="https://github.com/pythonnepal/"
+            target="_blank"
+            class="platform-card github"
+          >
+            <div class="platform-icon">
+              <i class="fab fa-github"></i>
+            </div>
+            <h3>GitHub</h3>
+            <p>Contribute to our open source projects and code</p>
+            <span class="platform-action"
+              >Follow Us <i class="fas fa-arrow-right"></i
+            ></span>
+          </a>
+          <a
+            href="https://www.youtube.com/channel/UC7EWmhPyAIHDsXY93C34eXA"
+            target="_blank"
+            class="platform-card youtube"
+          >
+            <div class="platform-icon">
+              <i class="fab fa-youtube"></i>
+            </div>
+            <h3>YouTube</h3>
+            <p>Watch recorded talks and presentations from our meetups</p>
+            <span class="platform-action"
+              >Subscribe <i class="fas fa-arrow-right"></i
+            ></span>
+          </a>
+          <a
+            href="https://twitter.com/PythonNepal"
+            target="_blank"
+            class="platform-card twitter"
+          >
+            <div class="platform-icon">
+              <i class="fab fa-x-twitter"></i>
+            </div>
+            <h3>Twitter / X</h3>
+            <p>Follow for news, updates, and Python tips</p>
+            <span class="platform-action"
+              >Follow Us <i class="fas fa-arrow-right"></i
+            ></span>
+          </a>
+          <a
+            href="https://discord.gg/pythonnepal"
+            target="_blank"
+            class="platform-card discord"
+          >
+            <div class="platform-icon">
+              <i class="fab fa-discord"></i>
+            </div>
+            <h3>Discord</h3>
+            <p>Real-time chat with the community members</p>
+            <span class="platform-action"
+              >Join Server <i class="fas fa-arrow-right"></i
+            ></span>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <!-- CTA Section -->
+    <section class="cta section">
+      <div class="cta-content">
+        <h2>Ready to Join Nepal's Python Community?</h2>
+        <p>
+          Whether you're a beginner or an experienced developer, there's a place
+          for you here. Let's learn and grow together!
+        </p>
+        <div class="cta-actions">
+          <a
+            href="https://www.meetup.com/PythonNepal/"
+            target="_blank"
+            class="btn btn-white btn-lg"
+          >
+            <i class="fab fa-meetup"></i>
+            Join on Meetup
+          </a>
+          <a href="pages/resources.html" class="btn btn-outline-white btn-lg">
+            <i class="fas fa-book"></i>
+            Start Learning
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+      <div class="container">
+        <div class="footer-grid">
+          <div class="footer-brand">
+            <a href="index.html" class="footer-logo">
+              <img
+                src="images/logo/python-ugn-white.png"
+                alt="Python Users Group Nepal Logo"
+              />
+              <span>Python Users Group Nepal</span>
+            </a>
+            <p>
+              A community of Python developers in Nepal, promoting knowledge
+              sharing and collaboration since 2013.
+            </p>
+            <div class="footer-social">
+              <a
+                href="https://www.facebook.com/groups/pythonnepal/"
+                target="_blank"
+                aria-label="Facebook"
+                ><i class="fab fa-facebook-f"></i
+              ></a>
+              <a
+                href="https://github.com/pythonnepal/"
+                target="_blank"
+                aria-label="GitHub"
+                ><i class="fab fa-github"></i
+              ></a>
+              <a
+                href="https://www.youtube.com/channel/UC7EWmhPyAIHDsXY93C34eXA"
+                target="_blank"
+                aria-label="YouTube"
+                ><i class="fab fa-youtube"></i
+              ></a>
+              <a
+                href="https://www.meetup.com/PythonNepal/"
+                target="_blank"
+                aria-label="Meetup"
+                ><i class="fab fa-meetup"></i
+              ></a>
+            </div>
+          </div>
+          <div class="footer-links">
+            <h4>Quick Links</h4>
+            <ul>
+              <li><a href="pages/meetups.html">Meetups</a></li>
+              <li><a href="pages/developers.html">Developers</a></li>
+              <li><a href="pages/companies.html">Companies</a></li>
+              <li><a href="pages/resources.html">Resources</a></li>
+              <li><a href="pages/videos.html">Videos</a></li>
+              <li><a href="pages/news.html">News & Notices</a></li>
+            </ul>
+          </div>
+          <div class="footer-links">
+            <h4>Community</h4>
+            <ul>
+              <li>
+                <a href="https://www.meetup.com/PythonNepal/" target="_blank"
+                  >Join Meetup</a
+                >
+              </li>
+              <li>
+                <a
+                  href="https://www.facebook.com/groups/pythonnepal/"
+                  target="_blank"
+                  >Facebook Group</a
+                >
+              </li>
+              <li>
+                <a href="https://github.com/pythonnepal/" target="_blank"
+                  >GitHub</a
+                >
+              </li>
+              <li>
+                <a
+                  href="https://www.youtube.com/channel/UC7EWmhPyAIHDsXY93C34eXA"
+                  target="_blank"
+                  >YouTube</a
+                >
+              </li>
+            </ul>
+          </div>
+          <div class="footer-links">
+            <h4>Contribute</h4>
+            <ul>
+              <li>
+                <a
+                  href="https://github.com/PythonNepal/pythonnepal.github.io"
+                  target="_blank"
+                  >Website Repo</a
+                >
+              </li>
+              <li>
+                <a
+                  href="https://github.com/PythonNepal/pythonnepal.github.io/blob/main/CONTRIBUTING.md"
+                  target="_blank"
+                  >Contributing Guide</a
+                >
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="footer-bottom">
+          <p>
+            &copy; 2013 - <span id="current-year"></span> Python Users Group
+            Nepal. Made with
+            <i class="fas fa-heart" style="color: #e74c3c"></i> in Nepal 🇳🇵
+          </p>
+        </div>
+      </div>
+    </footer>
+
+    <!-- Back to Top Button -->
+    <button class="back-to-top" id="back-to-top" aria-label="Back to top">
+      <i class="fas fa-chevron-up"></i>
+    </button>
+
+    <script src="js/main.js"></script>
+  </body>
+</html>
