@@ -76,7 +76,6 @@ async function loadComponents() {
  */
 function updateHeaderLinks(basePath) {
   const isInPages = basePath === "../";
-  const pagesPrefix = isInPages ? "" : "pages/";
 
   // Update logo
   const logoLink = document.getElementById("nav-logo-link");
@@ -91,7 +90,13 @@ function updateHeaderLinks(basePath) {
     if (page === "index") {
       link.href = `${basePath}index.html`;
     } else {
-      link.href = `${basePath}${pagesPrefix}${page}.html`;
+      // If we're in the pages directory, other pages are in the same directory
+      // If we're at root, pages are in the pages/ subdirectory
+      if (isInPages) {
+        link.href = `./${page}.html`;
+      } else {
+        link.href = `./pages/${page}.html`;
+      }
     }
   });
 }
@@ -101,7 +106,6 @@ function updateHeaderLinks(basePath) {
  */
 function updateFooterLinks(basePath) {
   const isInPages = basePath === "../";
-  const pagesPrefix = isInPages ? "" : "pages/";
 
   // Update logo
   const logoLink = document.getElementById("footer-logo-link");
@@ -113,7 +117,13 @@ function updateFooterLinks(basePath) {
   const footerLinks = document.querySelectorAll(".footer-links a[data-page]");
   footerLinks.forEach((link) => {
     const page = link.getAttribute("data-page");
-    link.href = `${basePath}${pagesPrefix}${page}.html`;
+    // If we're in the pages directory, other pages are in the same directory
+    // If we're at root, pages are in the pages/ subdirectory
+    if (isInPages) {
+      link.href = `./${page}.html`;
+    } else {
+      link.href = `./pages/${page}.html`;
+    }
   });
 }
 
