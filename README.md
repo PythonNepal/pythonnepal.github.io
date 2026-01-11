@@ -4,8 +4,8 @@ This repository is for the Python User Group Nepal's website. The site is a mode
 
 ## Find us:
 
-* [Meetup.com](https://www.meetup.com/PythonNepal/)
-* [Facebook](https://www.facebook.com/groups/pythonnepal/)
+- [Meetup.com](https://www.meetup.com/PythonNepal/)
+- [Facebook](https://www.facebook.com/groups/pythonnepal/)
 
 ## Project Structure
 
@@ -41,6 +41,7 @@ This repository is for the Python User Group Nepal's website. The site is a mode
 2. **Start a local server**
 
    Using Python:
+
    ```bash
    python -m http.server 8000
    ```
