@@ -1,0 +1,923 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Python developers in Nepal - Connect with the Python community members."
+    />
+    <title>Developers | Python Users Group Nepal</title>
+    <link rel="icon" href="../images/logo/python-ugn-condensed.png" />
+    <link rel="stylesheet" href="../css/style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+    />
+  </head>
+  <body>
+    <!-- Navigation -->
+    <nav class="navbar" id="navbar">
+      <div class="nav-container">
+        <a href="../index.html" class="nav-logo">
+          <img
+            src="../images/logo/python-ugn-white.png"
+            alt="Python Users Group Nepal Logo"
+            class="logo-img"
+          />
+          <span class="logo-text">Python Users Group Nepal</span>
+        </a>
+        <button
+          class="nav-toggle"
+          id="nav-toggle"
+          aria-label="Toggle navigation"
+        >
+          <span class="hamburger"></span>
+        </button>
+        <ul class="nav-menu" id="nav-menu">
+          <li class="nav-item">
+            <a href="../index.html" class="nav-link">Home</a>
+          </li>
+          <li class="nav-item">
+            <a href="meetups.html" class="nav-link">Meetups</a>
+          </li>
+          <li class="nav-item">
+            <a href="developers.html" class="nav-link active">Developers</a>
+          </li>
+          <li class="nav-item">
+            <a href="companies.html" class="nav-link">Companies</a>
+          </li>
+          <li class="nav-item">
+            <a href="resources.html" class="nav-link">Resources</a>
+          </li>
+          <li class="nav-item">
+            <a href="videos.html" class="nav-link">Videos</a>
+          </li>
+          <li class="nav-item">
+            <a href="news.html" class="nav-link">News & Notices</a>
+          </li>
+        </ul>
+        <div class="nav-actions">
+          <button
+            class="theme-toggle"
+            id="theme-toggle"
+            aria-label="Toggle dark mode"
+          >
+            <i class="fas fa-moon"></i>
+          </button>
+          <a
+            href="https://www.meetup.com/PythonNepal/"
+            target="_blank"
+            class="btn btn-primary btn-sm"
+            >Join Us</a
+          >
+        </div>
+      </div>
+    </nav>
+
+    <!-- Page Header -->
+    <header class="page-header">
+      <div class="container">
+        <h1><i class="fas fa-users"></i> Python Developers in Nepal</h1>
+        <p>Meet the amazing Python developers from our community</p>
+      </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="page-content">
+      <div class="container">
+        <!-- Search Box -->
+        <div class="search-box">
+          <i class="fas fa-search"></i>
+          <input
+            type="text"
+            id="search-input"
+            placeholder="Search developers by name..."
+          />
+        </div>
+        <p
+          id="results-count"
+          style="
+            text-align: center;
+            color: var(--text-muted);
+            margin-bottom: var(--space-xl);
+          "
+        ></p>
+
+        <!-- Add Profile CTA -->
+        <div
+          style="
+            text-align: center;
+            margin-bottom: var(--space-2xl);
+            padding: var(--space-lg);
+            background: var(--bg-secondary);
+            border-radius: var(--radius-xl);
+            border: 1px dashed var(--border-color);
+          "
+        >
+          <p style="margin-bottom: var(--space-md)">
+            <strong>Are you a Python developer in Nepal?</strong>
+          </p>
+          <a
+            href="https://github.com/PythonNepal/pythonnepal.github.io/blob/source/content/pages/developers.md"
+            target="_blank"
+            class="btn btn-primary"
+          >
+            <i class="fas fa-user-plus"></i> Add Your Profile
+          </a>
+        </div>
+
+        <!-- Developers Grid -->
+        <div class="developers-grid">
+          <div class="developer-card">
+            <div class="developer-avatar">AA</div>
+            <h3>Aaditya Chapagain</h3>
+            <div class="developer-links">
+              <a href="mailto:chapagain.aaditya@gmail.com"
+                ><i class="fas fa-envelope"></i> Email</a
+              >
+              <a href="https://github.com/aadityachapagain" target="_blank"
+                ><i class="fab fa-github"></i> GitHub</a
+              >
+              <a
+                href="https://www.linkedin.com/in/aaditya-chapagain-b5170a104/"
+                target="_blank"
+                ><i class="fab fa-linkedin"></i> LinkedIn</a
+              >
+            </div>
+          </div>
+
+          <div class="developer-card">
+            <div class="developer-avatar">AT</div>
+            <h3>Aju Tamang</h3>
+            <div class="developer-links">
+              <a href="mailto:ajutamang10@outlook.com"
+                ><i class="fas fa-envelope"></i> Email</a
+              >
+              <a href="https://github.com/Aju100" target="_blank"
+                ><i class="fab fa-github"></i> GitHub</a
+              >
+              <a
+                href="https://np.linkedin.com/in/aju-tamang-4a1a8514a"
+                target="_blank"
+                ><i class="fab fa-linkedin"></i> LinkedIn</a
+              >
+            </div>
+          </div>
+
+          <div class="developer-card">
+            <div class="developer-avatar">AA</div>
+            <h3>Akash Adhikari</h3>
+            <div class="developer-links">
+              <a href="mailto:contact@akashadhikari.com.np"
+                ><i class="fas fa-envelope"></i> Email</a
+              >
+              <a href="https://github.com/akashadhikari" target="_blank"
+                ><i class="fab fa-github"></i> GitHub</a
+              >
+              <a href="https://akashadhikari.com.np" target="_blank"
+                ><i class="fas fa-globe"></i> Website</a
+              >
+              <a href="https://www.linkedin.com/in/akashadh/" target="_blank"
+                ><i class="fab fa-linkedin"></i> LinkedIn</a
+              >
+            </div>
+          </div>
+
+          <div class="developer-card">
+            <div class="developer-avatar">AC</div>
+            <h3>Amit Chaudhary</h3>
+            <div class="developer-links">
+              <a href="mailto:meamitkc@gmail.com"
+                ><i class="fas fa-envelope"></i> Email</a
+              >
+              <a href="https://github.com/amitness" target="_blank"
+                ><i class="fab fa-github"></i> GitHub</a
+              >
+              <a href="https://amitness.com" target="_blank"
+                ><i class="fas fa-globe"></i> Website</a
+              >
+              <a href="https://www.linkedin.com/in/amitness/" target="_blank"
+                ><i class="fab fa-linkedin"></i> LinkedIn</a
+              >
+            </div>
+          </div>
+
+          <div class="developer-card">
+            <div class="developer-avatar">AG</div>
+            <h3>Amit Garu</h3>
+            <div class="developer-links">
+              <a href="mailto:amitgaru2@gmail.com"
+                ><i class="fas fa-envelope"></i> Email</a
+              >
+              <a href="https://github.com/arneec" target="_blank"
+                ><i class="fab fa-github"></i> GitHub</a
+              >
+              <a href="http://amitgaru.com.np" target="_blank"
+                ><i class="fas fa-globe"></i> Website</a
+              >
+              <a href="https://www.linkedin.com/in/xillar/" target="_blank"
+                ><i class="fab fa-linkedin"></i> LinkedIn</a
+              >
+            </div>
+          </div>
+
+          <div class="developer-card">
+            <div class="developer-avatar">AA</div>
+            <h3>Ashish Acharya</h3>
+            <div class="developer-links">
+              <a href="mailto:ashish.acharya14@gmail.com"
+                ><i class="fas fa-envelope"></i> Email</a
+              >
+              <a href="https://github.com/code-geek" target="_blank"
+                ><i class="fab fa-github"></i> GitHub</a
+              >
+              <a href="http://ashishacharya.com" target="_blank"
+                ><i class="fas fa-globe"></i> Website</a
+              >
+              <a href="https://www.linkedin.com/in/ashishdotpy/" target="_blank"
+                ><i class="fab fa-linkedin"></i> LinkedIn</a
+              >
+            </div>
+          </div>
+
+          <div class="developer-card">
+            <div class="developer-avatar">AT</div>
+            <h3>Ashish Tiwari</h3>
+            <div class="developer-links">
+              <a href="mailto:hi@aashishtiwari.com.np"
+                ><i class="fas fa-envelope"></i> Email</a
+              >
+              <a href="https://github.com/MegaMind98" target="_blank"
+                ><i class="fab fa-github"></i> GitHub</a
+              >
+              <a href="https://aashishtiwari.com.np" target="_blank"
+                ><i class="fas fa-globe"></i> Website</a
+              >
+              <a href="https://www.linkedin.com/in/MegaMindAT/" target="_blank"
+                ><i class="fab fa-linkedin"></i> LinkedIn</a
+              >
+            </div>
+          </div>
+
+          <div class="developer-card">
+            <div class="developer-avatar">AR</div>
+            <h3>Ashok Rai</h3>
+            <div class="developer-links">
+              <a href="mailto:ashokrai2053@gmail.com"
+                ><i class="fas fa-envelope"></i> Email</a
+              >
+              <a href="https://github.com/ashok-rai" target="_blank"
+                ><i class="fab fa-github"></i> GitHub</a
+              >
+              <a href="https://ashok-rai.com.np" target="_blank"
+                ><i class="fas fa-globe"></i> Website</a
+              >
+              <a href="https://www.linkedin.com/in/ashokayrai/" target="_blank"
+                ><i class="fab fa-linkedin"></i> LinkedIn</a
+              >
+            </div>
+          </div>
+
+          <div class="developer-card">
+            <div class="developer-avatar">AO</div>
+            <h3>Ayush Ojha</h3>
+            <div class="developer-links">
+              <a href="mailto:aimm.official@gmail.com"
+                ><i class="fas fa-envelope"></i> Email</a
+              >
+              <a href="https://github.com/officialaimm" target="_blank"
+                ><i class="fab fa-github"></i> GitHub</a
+              >
+              <a
+                href="https://www.linkedin.com/in/ayush-ojha-75206313a/"
+                target="_blank"
+                ><i class="fab fa-linkedin"></i> LinkedIn</a
+              >
+            </div>
+          </div>
+
+          <div class="developer-card">
+            <div class="developer-avatar">BB</div>
+            <h3>Bhishan Bhandari</h3>
+            <div class="developer-links">
+              <a href="mailto:bbhishan@gmail.com"
+                ><i class="fas fa-envelope"></i> Email</a
+              >
+              <a href="https://github.com/bhishan" target="_blank"
+                ><i class="fab fa-github"></i> GitHub</a
+              >
+              <a href="http://thetaranights.com" target="_blank"
+                ><i class="fas fa-globe"></i> Website</a
+              >
+              <a
+                href="https://www.linkedin.com/in/bhishan-bhandari-049800108"
+                target="_blank"
+                ><i class="fab fa-linkedin"></i> LinkedIn</a
+              >
+            </div>
+          </div>
+
+          <div class="developer-card">
+            <div class="developer-avatar">BK</div>
+            <h3>Bikesh Kawan</h3>
+            <div class="developer-links">
+              <a href="mailto:bikeshkawang@gmail.com"
+                ><i class="fas fa-envelope"></i> Email</a
+              >
+              <a href="https://github.com/bkawan" target="_blank"
+                ><i class="fab fa-github"></i> GitHub</a
+              >
+            </div>
+          </div>
+
+          <div class="developer-card">
+            <div class="developer-avatar">DL</div>
+            <h3>Damodar Lohani</h3>
+            <div class="developer-links">
+              <a href="mailto:dlohani48@gmail.com"
+                ><i class="fas fa-envelope"></i> Email</a
+              >
+              <a href="https://github.com/lohanidamodar" target="_blank"
+                ><i class="fab fa-github"></i> GitHub</a
+              >
+              <a href="https://dlohani.com.np" target="_blank"
+                ><i class="fas fa-globe"></i> Website</a
+              >
+              <a
+                href="https://www.linkedin.com/in/lohanidamodar"
+                target="_blank"
+                ><i class="fab fa-linkedin"></i> LinkedIn</a
+              >
+            </div>
+          </div>
+
+          <div class="developer-card">
+            <div class="developer-avatar">DS</div>
+            <h3>Dhiraj Shah</h3>
+            <div class="developer-links">
+              <a href="mailto:dhiraj.shah04@gmail.com"
+                ><i class="fas fa-envelope"></i> Email</a
+              >
+              <a href="https://github.com/dhirajshah04" target="_blank"
+                ><i class="fab fa-github"></i> GitHub</a
+              >
+              <a href="https://dhirajshah04.github.io" target="_blank"
+                ><i class="fas fa-globe"></i> Website</a
+              >
+              <a
+                href="https://www.linkedin.com/in/dhiraj-shah-52aaa776"
+                target="_blank"
+                ><i class="fab fa-linkedin"></i> LinkedIn</a
+              >
+            </div>
+          </div>
+
+          <div class="developer-card">
+            <div class="developer-avatar">HS</div>
+            <h3>Hemanta Sharma</h3>
+            <div class="developer-links">
+              <a href="mailto:sharmahemanta.212@gmail.com"
+                ><i class="fas fa-envelope"></i> Email</a
+              >
+              <a href="https://github.com/hemanta212" target="_blank"
+                ><i class="fab fa-github"></i> GitHub</a
+              >
+              <a href="https://hemanta212.github.io" target="_blank"
+                ><i class="fas fa-globe"></i> Website</a
+              >
+              <a
+                href="https://www.linkedin.com/in/hemanta-sharma-636290137"
+                target="_blank"
+                ><i class="fab fa-linkedin"></i> LinkedIn</a
+              >
+            </div>
+          </div>
+
+          <div class="developer-card">
+            <div class="developer-avatar">JG</div>
+            <h3>Joshan Gurung</h3>
+            <div class="developer-links">
+              <a href="mailto:joshangurung@gmail.com"
+                ><i class="fas fa-envelope"></i> Email</a
+              >
+              <a href="https://github.com/joshan" target="_blank"
+                ><i class="fab fa-github"></i> GitHub</a
+              >
+            </div>
+          </div>
+
+          <div class="developer-card">
+            <div class="developer-avatar">KS</div>
+            <h3>Kiran Shahi</h3>
+            <div class="developer-links">
+              <a href="mailto:kiran.shahi.np@gmail.com"
+                ><i class="fas fa-envelope"></i> Email</a
+              >
+              <a href="https://github.com/kiranshahi" target="_blank"
+                ><i class="fab fa-github"></i> GitHub</a
+              >
+              <a href="http://kirans.me" target="_blank"
+                ><i class="fas fa-globe"></i> Website</a
+              >
+              <a href="https://www.linkedin.com/in/itskirans/" target="_blank"
+                ><i class="fab fa-linkedin"></i> LinkedIn</a
+              >
+            </div>
+          </div>
+
+          <div class="developer-card">
+            <div class="developer-avatar">KS</div>
+            <h3>Krishna Sunuwar</h3>
+            <div class="developer-links">
+              <a href="https://github.com/s2krish" target="_blank"
+                ><i class="fab fa-github"></i> GitHub</a
+              >
+              <a href="https://www.linkedin.com/in/s2krish/" target="_blank"
+                ><i class="fab fa-linkedin"></i> LinkedIn</a
+              >
+            </div>
+          </div>
+
+          <div class="developer-card">
+            <div class="developer-avatar">KM</div>
+            <h3>Kishor Kumar Mahato</h3>
+            <div class="developer-links">
+              <a href="mailto:cyberkishor@gmail.com"
+                ><i class="fas fa-envelope"></i> Email</a
+              >
+              <a href="https://github.com/cyberkishor" target="_blank"
+                ><i class="fab fa-github"></i> GitHub</a
+              >
+              <a
+                href="https://www.linkedin.com/in/kishrorkumar/"
+                target="_blank"
+                ><i class="fab fa-linkedin"></i> LinkedIn</a
+              >
+            </div>
+          </div>
+
+          <div class="developer-card">
+            <div class="developer-avatar">MK</div>
+            <h3>Mandeep Khatry</h3>
+            <div class="developer-links">
+              <a href="mailto:mandeepkhatry1997@gmail.com"
+                ><i class="fas fa-envelope"></i> Email</a
+              >
+              <a href="https://github.com/mandeepkhatry" target="_blank"
+                ><i class="fab fa-github"></i> GitHub</a
+              >
+              <a
+                href="https://www.linkedin.com/in/mandeep-khatry-a1059212a/"
+                target="_blank"
+                ><i class="fab fa-linkedin"></i> LinkedIn</a
+              >
+            </div>
+          </div>
+
+          <div class="developer-card">
+            <div class="developer-avatar">MB</div>
+            <h3>Manish Bhattarai</h3>
+            <div class="developer-links">
+              <a href="mailto:bhaimanish00@gmail.com"
+                ><i class="fas fa-envelope"></i> Email</a
+              >
+              <a href="https://github.com/nepalikingpin" target="_blank"
+                ><i class="fab fa-github"></i> GitHub</a
+              >
+              <a href="https://www.linkedin.com/in/tecchy/" target="_blank"
+                ><i class="fab fa-linkedin"></i> LinkedIn</a
+              >
+            </div>
+          </div>
+
+          <div class="developer-card">
+            <div class="developer-avatar">MS</div>
+            <h3>Manjil Shrestha</h3>
+            <div class="developer-links">
+              <a href="mailto:shresthamanjil21@gmail.com"
+                ><i class="fas fa-envelope"></i> Email</a
+              >
+              <a href="https://github.com/smanjil" target="_blank"
+                ><i class="fab fa-github"></i> GitHub</a
+              >
+              <a
+                href="https://www.linkedin.com/in/manjil-shrestha-038527b4/"
+                target="_blank"
+                ><i class="fab fa-linkedin"></i> LinkedIn</a
+              >
+            </div>
+          </div>
+
+          <div class="developer-card">
+            <div class="developer-avatar">NK</div>
+            <h3>Narayan Kandel</h3>
+            <div class="developer-links">
+              <a href="mailto:npk.and@gmail.com"
+                ><i class="fas fa-envelope"></i> Email</a
+              >
+              <a href="https://github.com/nkandel" target="_blank"
+                ><i class="fab fa-github"></i> GitHub</a
+              >
+              <a
+                href="https://www.linkedin.com/in/narayankandel/"
+                target="_blank"
+                ><i class="fab fa-linkedin"></i> LinkedIn</a
+              >
+            </div>
+          </div>
+
+          <div class="developer-card">
+            <div class="developer-avatar">NS</div>
+            <h3>Nischal Lal Shrestha</h3>
+            <div class="developer-links">
+              <a href="mailto:hi@nischal.info.np"
+                ><i class="fas fa-envelope"></i> Email</a
+              >
+              <a href="https://github.com/theonlyNischal" target="_blank"
+                ><i class="fab fa-github"></i> GitHub</a
+              >
+              <a href="https://nischal.info.np/" target="_blank"
+                ><i class="fas fa-globe"></i> Website</a
+              >
+              <a
+                href="https://www.linkedin.com/in/theonlyNischal/"
+                target="_blank"
+                ><i class="fab fa-linkedin"></i> LinkedIn</a
+              >
+            </div>
+          </div>
+
+          <div class="developer-card">
+            <div class="developer-avatar">PT</div>
+            <h3>Pujan Thapa</h3>
+            <div class="developer-links">
+              <a href="mailto:iampujan@outlook.com"
+                ><i class="fas fa-envelope"></i> Email</a
+              >
+              <a href="https://github.com/iampujan" target="_blank"
+                ><i class="fab fa-github"></i> GitHub</a
+              >
+              <a href="https://pujanthapa.com.np" target="_blank"
+                ><i class="fas fa-globe"></i> Website</a
+              >
+              <a href="https://www.linkedin.com/in/iampujan/" target="_blank"
+                ><i class="fab fa-linkedin"></i> LinkedIn</a
+              >
+              <a href="https://twitter.com/iampujan20" target="_blank"
+                ><i class="fab fa-twitter"></i> Twitter</a
+              >
+            </div>
+          </div>
+
+          <div class="developer-card">
+            <div class="developer-avatar">RK</div>
+            <h3>Rabi Raj Khadka</h3>
+            <div class="developer-links">
+              <a href="mailto:er.rabirajkhadka@gmail.com"
+                ><i class="fas fa-envelope"></i> Email</a
+              >
+              <a href="https://github.com/rabirajkhadka" target="_blank"
+                ><i class="fab fa-github"></i> GitHub</a
+              >
+              <a href="http://rabirajkhadka.me" target="_blank"
+                ><i class="fas fa-globe"></i> Website</a
+              >
+              <a
+                href="https://www.linkedin.com/in/rabirajkhadka/"
+                target="_blank"
+                ><i class="fab fa-linkedin"></i> LinkedIn</a
+              >
+            </div>
+          </div>
+
+          <div class="developer-card">
+            <div class="developer-avatar">SB</div>
+            <h3>Sandip Bhagat</h3>
+            <div class="developer-links">
+              <a href="mailto:sandipbgt@gmail.com"
+                ><i class="fas fa-envelope"></i> Email</a
+              >
+              <a href="https://github.com/sandipbgt" target="_blank"
+                ><i class="fab fa-github"></i> GitHub</a
+              >
+              <a href="http://sandipbgt.com" target="_blank"
+                ><i class="fas fa-globe"></i> Website</a
+              >
+              <a href="https://www.linkedin.com/in/sandipbgt/" target="_blank"
+                ><i class="fab fa-linkedin"></i> LinkedIn</a
+              >
+            </div>
+          </div>
+
+          <div class="developer-card">
+            <div class="developer-avatar">SC</div>
+            <h3>Sanjay Chamlagain</h3>
+            <div class="developer-links">
+              <a href="mailto:quitthegame3@gmail.com"
+                ><i class="fas fa-envelope"></i> Email</a
+              >
+              <a href="https://github.com/sanjaychamlagain" target="_blank"
+                ><i class="fab fa-github"></i> GitHub</a
+              >
+              <a
+                href="https://www.linkedin.com/in/sanjay-chamlagain-403156184/"
+                target="_blank"
+                ><i class="fab fa-linkedin"></i> LinkedIn</a
+              >
+            </div>
+          </div>
+
+          <div class="developer-card">
+            <div class="developer-avatar">SG</div>
+            <h3>Santosh Ghimire</h3>
+            <div class="developer-links">
+              <a href="mailto:santosh.ghimire33@gmail.com"
+                ><i class="fas fa-envelope"></i> Email</a
+              >
+              <a href="https://github.com/santoshghimire" target="_blank"
+                ><i class="fab fa-github"></i> GitHub</a
+              >
+              <a
+                href="https://www.linkedin.com/in/santoshghimire/"
+                target="_blank"
+                ><i class="fab fa-linkedin"></i> LinkedIn</a
+              >
+            </div>
+          </div>
+
+          <div class="developer-card">
+            <div class="developer-avatar">SP</div>
+            <h3>Santosh Purbey</h3>
+            <div class="developer-links">
+              <a href="mailto:purbey.santosh@hotmail.com"
+                ><i class="fas fa-envelope"></i> Email</a
+              >
+              <a href="https://github.com/santoshpurbey" target="_blank"
+                ><i class="fab fa-github"></i> GitHub</a
+              >
+              <a href="https://www.linkedin.com/in/santosh3511/" target="_blank"
+                ><i class="fab fa-linkedin"></i> LinkedIn</a
+              >
+            </div>
+          </div>
+
+          <div class="developer-card">
+            <div class="developer-avatar">SB</div>
+            <h3>Saroj Bhattarai</h3>
+            <div class="developer-links">
+              <a href="mailto:sarojbhattarai2053@gmail.com"
+                ><i class="fas fa-envelope"></i> Email</a
+              >
+              <a href="https://github.com/thevirusx3" target="_blank"
+                ><i class="fab fa-github"></i> GitHub</a
+              >
+              <a href="https://www.linkedin.com/in/thevirusx3/" target="_blank"
+                ><i class="fab fa-linkedin"></i> LinkedIn</a
+              >
+            </div>
+          </div>
+
+          <div class="developer-card">
+            <div class="developer-avatar">SL</div>
+            <h3>Shital Babu Luitel</h3>
+            <div class="developer-links">
+              <a href="mailto:ctalluitel@gmail.com"
+                ><i class="fas fa-envelope"></i> Email</a
+              >
+              <a href="https://github.com/shitalluitel" target="_blank"
+                ><i class="fab fa-github"></i> GitHub</a
+              >
+              <a
+                href="https://www.linkedin.com/in/shital-luitel-38363713a/"
+                target="_blank"
+                ><i class="fab fa-linkedin"></i> LinkedIn</a
+              >
+            </div>
+          </div>
+
+          <div class="developer-card">
+            <div class="developer-avatar">SB</div>
+            <h3>Sijan Bhandari</h3>
+            <div class="developer-links">
+              <a href="mailto:sijanonly@gmail.com"
+                ><i class="fas fa-envelope"></i> Email</a
+              >
+              <a href="https://github.com/sijanonly" target="_blank"
+                ><i class="fab fa-github"></i> GitHub</a
+              >
+              <a href="https://sijanb.com.np/" target="_blank"
+                ><i class="fas fa-globe"></i> Website</a
+              >
+              <a href="https://www.linkedin.com/in/sijanonly/" target="_blank"
+                ><i class="fab fa-linkedin"></i> LinkedIn</a
+              >
+            </div>
+          </div>
+
+          <div class="developer-card">
+            <div class="developer-avatar">SS</div>
+            <h3>Subin Shrestha</h3>
+            <div class="developer-links">
+              <a href="mailto:developer.shrestha@gmail.com"
+                ><i class="fas fa-envelope"></i> Email</a
+              >
+              <a href="https://github.com/sthasbin" target="_blank"
+                ><i class="fab fa-github"></i> GitHub</a
+              >
+            </div>
+          </div>
+
+          <div class="developer-card">
+            <div class="developer-avatar">SS</div>
+            <h3>Sudeep Sharma</h3>
+            <div class="developer-links">
+              <a
+                href="https://www.linkedin.com/in/sudeep-sharma-788152145/"
+                target="_blank"
+                ><i class="fab fa-linkedin"></i> LinkedIn</a
+              >
+              <a href="http://facebook.com/sudeep.sharma2052" target="_blank"
+                ><i class="fab fa-facebook"></i> Facebook</a
+              >
+            </div>
+          </div>
+
+          <div class="developer-card">
+            <div class="developer-avatar">SK</div>
+            <h3>Sudip Kafle</h3>
+            <div class="developer-links">
+              <a href="mailto:soodip.kafle@gmail.com"
+                ><i class="fas fa-envelope"></i> Email</a
+              >
+              <a href="https://github.com/kaflesudip" target="_blank"
+                ><i class="fab fa-github"></i> GitHub</a
+              >
+              <a href="https://www.linkedin.com/in/kaflesudip/" target="_blank"
+                ><i class="fab fa-linkedin"></i> LinkedIn</a
+              >
+            </div>
+          </div>
+
+          <div class="developer-card">
+            <div class="developer-avatar">UC</div>
+            <h3>Umesh Chaudhary</h3>
+            <div class="developer-links">
+              <a href="mailto:umesschaudhary@gmail.com"
+                ><i class="fas fa-envelope"></i> Email</a
+              >
+              <a href="https://github.com/umschaudhary" target="_blank"
+                ><i class="fab fa-github"></i> GitHub</a
+              >
+              <a href="http://umschaudhary.github.io" target="_blank"
+                ><i class="fas fa-globe"></i> Website</a
+              >
+              <a
+                href="https://www.linkedin.com/in/umesh-chaudhary-132589141/"
+                target="_blank"
+                ><i class="fab fa-linkedin"></i> LinkedIn</a
+              >
+            </div>
+          </div>
+
+          <div class="developer-card">
+            <div class="developer-avatar">UT</div>
+            <h3>Utsav Ratna Tuladhar</h3>
+            <div class="developer-links">
+              <a href="mailto:utsav.ratna@gmail.com"
+                ><i class="fas fa-envelope"></i> Email</a
+              >
+              <a href="https://github.com/UtsavRatna" target="_blank"
+                ><i class="fab fa-github"></i> GitHub</a
+              >
+              <a
+                href="https://www.linkedin.com/in/utsav-ratna-tuladhar-b74735119/"
+                target="_blank"
+                ><i class="fab fa-linkedin"></i> LinkedIn</a
+              >
+            </div>
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+      <div class="container">
+        <div class="footer-grid">
+          <div class="footer-brand">
+            <a href="../index.html" class="footer-logo">
+              <img
+                src="../images/logo/python-ugn-white.png"
+                alt="Python Users Group Nepal Logo"
+              />
+              <span>Python Users Group Nepal</span>
+            </a>
+            <p>
+              A community of Python developers in Nepal, promoting knowledge
+              sharing and collaboration since 2013.
+            </p>
+            <div class="footer-social">
+              <a
+                href="https://www.facebook.com/groups/pythonnepal/"
+                target="_blank"
+                aria-label="Facebook"
+                ><i class="fab fa-facebook-f"></i
+              ></a>
+              <a
+                href="https://github.com/pythonnepal/"
+                target="_blank"
+                aria-label="GitHub"
+                ><i class="fab fa-github"></i
+              ></a>
+              <a
+                href="https://www.youtube.com/channel/UC7EWmhPyAIHDsXY93C34eXA"
+                target="_blank"
+                aria-label="YouTube"
+                ><i class="fab fa-youtube"></i
+              ></a>
+              <a
+                href="https://www.meetup.com/PythonNepal/"
+                target="_blank"
+                aria-label="Meetup"
+                ><i class="fab fa-meetup"></i
+              ></a>
+            </div>
+          </div>
+          <div class="footer-links">
+            <h4>Quick Links</h4>
+            <ul>
+              <li><a href="meetups.html">Meetups</a></li>
+              <li><a href="developers.html">Developers</a></li>
+              <li><a href="companies.html">Companies</a></li>
+              <li><a href="resources.html">Resources</a></li>
+              <li><a href="videos.html">Videos</a></li>
+              <li><a href="news.html">News & Notices</a></li>
+            </ul>
+          </div>
+          <div class="footer-links">
+            <h4>Community</h4>
+            <ul>
+              <li>
+                <a href="https://www.meetup.com/PythonNepal/" target="_blank"
+                  >Join Meetup</a
+                >
+              </li>
+              <li>
+                <a
+                  href="https://www.facebook.com/groups/pythonnepal/"
+                  target="_blank"
+                  >Facebook Group</a
+                >
+              </li>
+              <li>
+                <a href="https://github.com/pythonnepal/" target="_blank"
+                  >GitHub</a
+                >
+              </li>
+              <li>
+                <a
+                  href="https://www.youtube.com/channel/UC7EWmhPyAIHDsXY93C34eXA"
+                  target="_blank"
+                  >YouTube</a
+                >
+              </li>
+            </ul>
+          </div>
+          <div class="footer-links">
+            <h4>Contribute</h4>
+            <ul>
+              <li>
+                <a
+                  href="https://github.com/PythonNepal/pythonnepal.github.io"
+                  target="_blank"
+                  >Website Repo</a
+                >
+              </li>
+              <li>
+                <a
+                  href="https://github.com/PythonNepal/pythonnepal.github.io/blob/main/CONTRIBUTING.md"
+                  target="_blank"
+                  >Contributing Guide</a
+                >
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="footer-bottom">
+          <p>
+            &copy; 2013 - <span id="current-year"></span> Python Users Group
+            Nepal. Made with
+            <i class="fas fa-heart" style="color: #e74c3c"></i> in Nepal 🇳🇵
+          </p>
+        </div>
+      </div>
+    </footer>
+
+    <button class="back-to-top" id="back-to-top" aria-label="Back to top">
+      <i class="fas fa-chevron-up"></i>
+    </button>
+
+    <script src="../js/main.js"></script>
+  </body>
+</html>
