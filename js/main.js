@@ -21,11 +21,20 @@ document.addEventListener("DOMContentLoaded", async () => {
  */
 function getBasePath() {
   const path = window.location.pathname;
-  // If we're in the pages folder, go up one level
+  // Check if we're in the pages directory
   if (path.includes("/pages/")) {
     return "../";
   }
   return "./";
+}
+
+/**
+ * Get current page name from URL
+ */
+function getCurrentPage() {
+  const path = window.location.pathname;
+  const filename = path.split("/").pop().replace(".html", "");
+  return filename === "" || filename === "index" ? "index" : filename;
 }
 
 /**
@@ -44,6 +53,7 @@ async function loadComponents() {
         const headerHtml = await headerResponse.text();
         headerContainer.innerHTML = headerHtml;
         updateHeaderLinks(basePath);
+        setActiveNavLink();
       }
     }
 
@@ -93,87 +103,30 @@ function updateFooterLinks(basePath) {
   const isInPages = basePath === "../";
   const pagesPrefix = isInPages ? "" : "pages/";
 
-  // Update footer logo
-  const footerLogoLink = document.getElementById("footer-logo-link");
-  const footerLogoImg = document.getElementById("footer-logo-img");
-  if (footerLogoLink) footerLogoLink.href = `${basePath}index.html`;
-  if (footerLogoImg)
-    footerLogoImg.src = `${basePath}images/logo/python-ugn-white.png`;
+  // Update logo
+  const logoLink = document.getElementById("footer-logo-link");
+  const logoImg = document.getElementById("footer-logo-img");
+  if (logoLink) logoLink.href = `${basePath}index.html`;
+  if (logoImg) logoImg.src = `${basePath}images/logo/python-ugn-white.png`;
 
-  // Update all links with data-page attribute
-  const pageLinks = document.querySelectorAll("footer a[data-page]");
-  pageLinks.forEach((link) => {
+  // Update footer page links
+  const footerLinks = document.querySelectorAll(".footer-links a[data-page]");
+  footerLinks.forEach((link) => {
     const page = link.getAttribute("data-page");
-    if (page === "index") {
-      link.href = `${basePath}index.html`;
-    } else {
-      link.href = `${basePath}${pagesPrefix}${page}.html`;
-    }
+    link.href = `${basePath}${pagesPrefix}${page}.html`;
   });
 }
 
 /**
- * Navigation functionality
+ * Set active nav link based on current page
  */
-function initNavigation() {
-  const navbar = document.querySelector(".navbar");
-  const navToggle = document.getElementById("nav-toggle");
-  const navMenu = document.getElementById("nav-menu");
+function setActiveNavLink() {
+  const currentPage = getCurrentPage();
+  const navLinks = document.querySelectorAll(".nav-link[data-page]");
 
-  // Mobile menu toggle
-  if (navToggle && navMenu) {
-    navToggle.addEventListener("click", () => {
-      navToggle.classList.toggle("active");
-      navMenu.classList.toggle("active");
-      document.body.style.overflow = navMenu.classList.contains("active")
-        ? "hidden"
-        : "";
-    });
-
-    // Close menu when clicking on a link
-    navMenu.querySelectorAll(".nav-link").forEach((link) => {
-      link.addEventListener("click", () => {
-        navToggle.classList.remove("active");
-        navMenu.classList.remove("active");
-        document.body.style.overflow = "";
-      });
-    });
-
-    // Close menu when clicking outside
-    document.addEventListener("click", (e) => {
-      if (!navToggle.contains(e.target) && !navMenu.contains(e.target)) {
-        navToggle.classList.remove("active");
-        navMenu.classList.remove("active");
-        document.body.style.overflow = "";
-      }
-    });
-  }
-
-  // Navbar scroll effect
-  if (navbar) {
-    let lastScroll = 0;
-    window.addEventListener("scroll", () => {
-      const currentScroll = window.pageYOffset;
-
-      if (currentScroll > 50) {
-        navbar.classList.add("scrolled");
-      } else {
-        navbar.classList.remove("scrolled");
-      }
-
-      lastScroll = currentScroll;
-    });
-  }
-
-  // Set active nav link based on current page
-  const currentPath = window.location.pathname;
-  document.querySelectorAll(".nav-link").forEach((link) => {
-    const href = link.getAttribute("href");
-    if (
-      currentPath.endsWith(href) ||
-      (currentPath.endsWith("/") && href === "index.html") ||
-      currentPath.includes(href.replace(".html", ""))
-    ) {
+  navLinks.forEach((link) => {
+    const page = link.getAttribute("data-page");
+    if (page === currentPage) {
       link.classList.add("active");
     } else {
       link.classList.remove("active");
@@ -182,47 +135,76 @@ function initNavigation() {
 }
 
 /**
+ * Navigation functionality
+ */
+function initNavigation() {
+  const navToggle = document.getElementById("nav-toggle");
+  const navMenu = document.getElementById("nav-menu");
+  const navbar = document.getElementById("navbar");
+
+  // Mobile menu toggle
+  if (navToggle && navMenu) {
+    navToggle.addEventListener("click", () => {
+      navMenu.classList.toggle("active");
+      navToggle.classList.toggle("active");
+    });
+
+    // Close menu when clicking outside
+    document.addEventListener("click", (e) => {
+      if (!navToggle.contains(e.target) && !navMenu.contains(e.target)) {
+        navMenu.classList.remove("active");
+        navToggle.classList.remove("active");
+      }
+    });
+
+    // Close menu when clicking a link
+    navMenu.querySelectorAll(".nav-link").forEach((link) => {
+      link.addEventListener("click", () => {
+        navMenu.classList.remove("active");
+        navToggle.classList.remove("active");
+      });
+    });
+  }
+
+  // Navbar scroll effect
+  if (navbar) {
+    window.addEventListener("scroll", () => {
+      if (window.scrollY > 50) {
+        navbar.classList.add("scrolled");
+      } else {
+        navbar.classList.remove("scrolled");
+      }
+    });
+  }
+}
+
+/**
  * Theme toggle (Dark/Light mode)
  */
 function initThemeToggle() {
   const themeToggle = document.getElementById("theme-toggle");
-  const html = document.documentElement;
-
-  // Check for saved theme preference or system preference
+  const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
   const savedTheme = localStorage.getItem("theme");
-  const systemPrefersDark = window.matchMedia(
-    "(prefers-color-scheme: dark)"
-  ).matches;
 
+  // Set initial theme
   if (savedTheme) {
-    html.setAttribute("data-theme", savedTheme);
+    document.documentElement.setAttribute("data-theme", savedTheme);
     updateThemeIcon(savedTheme);
-  } else if (systemPrefersDark) {
-    html.setAttribute("data-theme", "dark");
+  } else if (prefersDark) {
+    document.documentElement.setAttribute("data-theme", "dark");
     updateThemeIcon("dark");
   }
 
   if (themeToggle) {
     themeToggle.addEventListener("click", () => {
-      const currentTheme = html.getAttribute("data-theme");
+      const currentTheme = document.documentElement.getAttribute("data-theme");
       const newTheme = currentTheme === "dark" ? "light" : "dark";
 
-      html.setAttribute("data-theme", newTheme);
+      document.documentElement.setAttribute("data-theme", newTheme);
       localStorage.setItem("theme", newTheme);
       updateThemeIcon(newTheme);
     });
   }
-
-  // Listen for system theme changes
-  window
-    .matchMedia("(prefers-color-scheme: dark)")
-    .addEventListener("change", (e) => {
-      if (!localStorage.getItem("theme")) {
-        const newTheme = e.matches ? "dark" : "light";
-        html.setAttribute("data-theme", newTheme);
-        updateThemeIcon(newTheme);
-      }
-    });
 }
 
 function updateThemeIcon(theme) {
@@ -300,6 +282,21 @@ function initSearch() {
       if (videoCards.length > 0) {
         filterCards(videoCards, searchTerm, ["h3", "p"]);
       }
+
+      // Update results count if element exists
+      const resultsCount = document.getElementById("results-count");
+      if (resultsCount) {
+        const visibleCards = container.querySelectorAll(
+          ".developer-card:not([style*='display: none']), .company-card:not([style*='display: none']), .video-card:not([style*='display: none'])"
+        );
+        if (searchTerm) {
+          resultsCount.textContent = `Found ${visibleCards.length} result${
+            visibleCards.length !== 1 ? "s" : ""
+          }`;
+        } else {
+          resultsCount.textContent = "";
+        }
+      }
     });
   });
 }
@@ -314,12 +311,10 @@ function filterCards(cards, searchTerm, selectors) {
       });
     });
 
-    if (searchTerm === "" || text.includes(searchTerm)) {
+    if (text.includes(searchTerm) || searchTerm === "") {
       card.style.display = "";
-      card.style.opacity = "1";
     } else {
       card.style.display = "none";
-      card.style.opacity = "0";
     }
   });
 }
@@ -331,7 +326,7 @@ function filterResourceSections(sections, searchTerm) {
 
     items.forEach((item) => {
       const text = item.textContent.toLowerCase();
-      if (searchTerm === "" || text.includes(searchTerm)) {
+      if (text.includes(searchTerm) || searchTerm === "") {
         item.style.display = "";
         hasVisibleItems = true;
       } else {
@@ -339,12 +334,8 @@ function filterResourceSections(sections, searchTerm) {
       }
     });
 
-    // Show/hide entire section based on whether it has visible items
-    if (searchTerm === "" || hasVisibleItems) {
-      section.style.display = "";
-    } else {
-      section.style.display = "none";
-    }
+    // Hide entire section if no items match
+    section.style.display = hasVisibleItems ? "" : "none";
   });
 }
 
