@@ -1,7 +1,0 @@
-[submodule "theme"]
-	path = theme
-	url = https://github.com/PythonNepal/pure-single
-[submodule "pure-single"]
-	path = pure-single
-	url = https://github.com/PythonNepal/pure-single
-	branch = master
