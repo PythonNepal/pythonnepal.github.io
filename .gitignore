@@ -65,3 +65,9 @@ output/*
 cache
 *.pid
 
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
